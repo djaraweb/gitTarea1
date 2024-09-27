@@ -1,0 +1,3501 @@
+[ {
+  "id" : "CRT-0",
+  "nombre" : "TRAVELING MERCHANTS",
+  "apodo" : "OGLETHORPE",
+  "edad" : 53,
+  "nivel" : 13,
+  "peso" : 88.9,
+  "ubicacion" : "UTUMNO",
+  "juego" : "ORACLE OF SEASONS - ORACLE OF AGES",
+  "espirituAnimal" : "CABRA"
+}, {
+  "id" : "CRT-1",
+  "nombre" : "WAHGO KATTA",
+  "apodo" : "FRYLOCK",
+  "edad" : 68,
+  "nivel" : 84,
+  "peso" : 95.12,
+  "ubicacion" : "EAST ROAD",
+  "juego" : "ZELDA II: ADVENTURE OF LINK",
+  "espirituAnimal" : "CABRA"
+}, {
+  "id" : "CRT-2",
+  "nombre" : "MELLIE",
+  "apodo" : "ERR",
+  "edad" : 29,
+  "nivel" : 67,
+  "peso" : 86.47,
+  "ubicacion" : "OLD FORD",
+  "juego" : "ZELDA II: ADVENTURE OF LINK",
+  "espirituAnimal" : "DRAGON"
+}, {
+  "id" : "CRT-3",
+  "nombre" : "INGO",
+  "apodo" : "DR. WONGBURGER",
+  "edad" : 39,
+  "nivel" : 61,
+  "peso" : 92.51,
+  "ubicacion" : "LAND OF THE SUN",
+  "juego" : "THE LEGEND OF ZELDA",
+  "espirituAnimal" : "SERPIENTE"
+}, {
+  "id" : "CRT-4",
+  "nombre" : "RITO CHIEFTAIN",
+  "apodo" : "IGNIGNOKT",
+  "edad" : 41,
+  "nivel" : 25,
+  "peso" : 79.61,
+  "ubicacion" : "CRACK OF DOOM",
+  "juego" : "FOUR SWORDS",
+  "espirituAnimal" : "DRAGON"
+}, {
+  "id" : "CRT-5",
+  "nombre" : "AGAHNIM",
+  "apodo" : "MASTER SHAKE",
+  "edad" : 31,
+  "nivel" : 43,
+  "peso" : 97.33,
+  "ubicacion" : "AGLAROND",
+  "juego" : "LINK'S AWAKENING",
+  "espirituAnimal" : "TIGRE"
+}, {
+  "id" : "CRT-6",
+  "nombre" : "THE PIRATES",
+  "apodo" : "IGNIGNOKT",
+  "edad" : 60,
+  "nivel" : 90,
+  "peso" : 92.88,
+  "ubicacion" : "FENS OF SERECH",
+  "juego" : "FOUR SWORDS",
+  "espirituAnimal" : "CABRA"
+}, {
+  "id" : "CRT-7",
+  "nombre" : "KA'O MAKAGH",
+  "apodo" : "MEATWAD",
+  "edad" : 27,
+  "nivel" : 48,
+  "peso" : 86.87,
+  "ubicacion" : "TAUR-IM-DUINATH",
+  "juego" : "FOUR SWORDS",
+  "espirituAnimal" : "DRAGON"
+}, {
+  "id" : "CRT-8",
+  "nombre" : "GORON ELDER",
+  "apodo" : "OGLETHORPE",
+  "edad" : 40,
+  "nivel" : 55,
+  "peso" : 90.26,
+  "ubicacion" : "UTUMNO",
+  "juego" : "PHANTOM HOURGLASS",
+  "espirituAnimal" : "CABALLO"
+}, {
+  "id" : "CRT-9",
+  "nombre" : "REM",
+  "apodo" : "DR. WEIRD",
+  "edad" : 38,
+  "nivel" : 25,
+  "peso" : 91.89,
+  "ubicacion" : "HAVEN OF THE ELDAR",
+  "juego" : "THE MINISH CAP",
+  "espirituAnimal" : "DRAGON"
+}, {
+  "id" : "CRT-10",
+  "nombre" : "HILA RAO",
+  "apodo" : "SKEETER",
+  "edad" : 52,
+  "nivel" : 73,
+  "peso" : 91.67,
+  "ubicacion" : "COLDFELLS",
+  "juego" : "PHANTOM HOURGLASS",
+  "espirituAnimal" : "SERPIENTE"
+}, {
+  "id" : "CRT-11",
+  "nombre" : "BOSH KALA",
+  "apodo" : "CARL BRUTANANADILEWSKI",
+  "edad" : 30,
+  "nivel" : 43,
+  "peso" : 74.95,
+  "ubicacion" : "ISLE OF BALAR",
+  "juego" : "ORACLE OF SEASONS - ORACLE OF AGES",
+  "espirituAnimal" : "BUEY"
+}, {
+  "id" : "CRT-12",
+  "nombre" : "SKULL KID",
+  "apodo" : "CARL BRUTANANADILEWSKI",
+  "edad" : 31,
+  "nivel" : 56,
+  "peso" : 81.42,
+  "ubicacion" : "FENS OF SERECH",
+  "juego" : "OCARINA OF TIME",
+  "espirituAnimal" : "GALLO"
+}, {
+  "id" : "CRT-13",
+  "nombre" : "MIDO",
+  "apodo" : "MEATWAD",
+  "edad" : 28,
+  "nivel" : 76,
+  "peso" : 83.68,
+  "ubicacion" : "UTUMNO",
+  "juego" : "A LINK TO THE PAST",
+  "espirituAnimal" : "DRAGON"
+}, {
+  "id" : "CRT-14",
+  "nombre" : "CUCCO KEEPER",
+  "apodo" : "DR. WEIRD",
+  "edad" : 21,
+  "nivel" : 46,
+  "peso" : 81.55,
+  "ubicacion" : "ORTHANC",
+  "juego" : "ZELDA II: ADVENTURE OF LINK",
+  "espirituAnimal" : "RATA"
+}, {
+  "id" : "CRT-15",
+  "nombre" : "MADAM AROMA",
+  "apodo" : "FRYLOCK",
+  "edad" : 36,
+  "nivel" : 11,
+  "peso" : 93.37,
+  "ubicacion" : "GREENWAY",
+  "juego" : "A LINK TO THE PAST",
+  "espirituAnimal" : "TIGRE"
+}, {
+  "id" : "CRT-16",
+  "nombre" : "TRISSA",
+  "apodo" : "MEATWAD",
+  "edad" : 61,
+  "nivel" : 38,
+  "peso" : 92.9,
+  "ubicacion" : "OLD FOREST ROAD",
+  "juego" : "ORACLE OF SEASONS - ORACLE OF AGES",
+  "espirituAnimal" : "BUEY"
+}, {
+  "id" : "CRT-17",
+  "nombre" : "ILIA",
+  "apodo" : "STEVE",
+  "edad" : 42,
+  "nivel" : 64,
+  "peso" : 77.82,
+  "ubicacion" : "RIVENDELL",
+  "juego" : "ZELDA II: ADVENTURE OF LINK",
+  "espirituAnimal" : "CABALLO"
+}, {
+  "id" : "CRT-18",
+  "nombre" : "QUEEN AMBI",
+  "apodo" : "DR. WEIRD",
+  "edad" : 53,
+  "nivel" : 18,
+  "peso" : 86.24,
+  "ubicacion" : "DOL GULDUR",
+  "juego" : "FOUR SWORDS",
+  "espirituAnimal" : "GALLO"
+}, {
+  "id" : "CRT-19",
+  "nombre" : "AGAHNIM",
+  "apodo" : "ERR",
+  "edad" : 57,
+  "nivel" : 30,
+  "peso" : 80.76,
+  "ubicacion" : "OLD FOREST",
+  "juego" : "A LINK TO THE PAST",
+  "espirituAnimal" : "GALLO"
+}, {
+  "id" : "CRT-20",
+  "nombre" : "YETO",
+  "apodo" : "DR. WEIRD",
+  "edad" : 31,
+  "nivel" : 33,
+  "peso" : 91.75,
+  "ubicacion" : "TOL MORWEN",
+  "juego" : "BREATH OF THE WILD",
+  "espirituAnimal" : "GALLO"
+}, {
+  "id" : "CRT-21",
+  "nombre" : "SOPHIE",
+  "apodo" : "D.P",
+  "edad" : 40,
+  "nivel" : 27,
+  "peso" : 83.11,
+  "ubicacion" : "ISENMOUTHE",
+  "juego" : "LINK'S AWAKENING",
+  "espirituAnimal" : "CABRA"
+}, {
+  "id" : "CRT-22",
+  "nombre" : "GRETA",
+  "apodo" : "GEORGE LOWE",
+  "edad" : 24,
+  "nivel" : 59,
+  "peso" : 86.26,
+  "ubicacion" : "VISTA",
+  "juego" : "FOUR SWORDS",
+  "espirituAnimal" : "BUEY"
+}, {
+  "id" : "CRT-23",
+  "nombre" : "NAYRU",
+  "apodo" : "D.P",
+  "edad" : 63,
+  "nivel" : 53,
+  "peso" : 95.54,
+  "ubicacion" : "LOSGAR",
+  "juego" : "THE MINISH CAP",
+  "espirituAnimal" : "BUEY"
+}, {
+  "id" : "CRT-24",
+  "nombre" : "CHIO",
+  "apodo" : "DR. WEIRD",
+  "edad" : 47,
+  "nivel" : 46,
+  "peso" : 75.13,
+  "ubicacion" : "ANGBAND",
+  "juego" : "LINK'S AWAKENING",
+  "espirituAnimal" : "PERRO"
+}, {
+  "id" : "CRT-25",
+  "nombre" : "NYEVE",
+  "apodo" : "DR. WONGBURGER",
+  "edad" : 68,
+  "nivel" : 79,
+  "peso" : 73.49,
+  "ubicacion" : "NARGOTHROND",
+  "juego" : "LINK'S AWAKENING",
+  "espirituAnimal" : "CABRA"
+}, {
+  "id" : "CRT-26",
+  "nombre" : "QUEEN AMBI",
+  "apodo" : "SKEETER",
+  "edad" : 25,
+  "nivel" : 37,
+  "peso" : 87.28,
+  "ubicacion" : "EÄ",
+  "juego" : "ZELDA II: ADVENTURE OF LINK",
+  "espirituAnimal" : "GALLO"
+}, {
+  "id" : "CRT-27",
+  "nombre" : "LINK'S UNCLE",
+  "apodo" : "FRYLOCK",
+  "edad" : 38,
+  "nivel" : 73,
+  "peso" : 76.4,
+  "ubicacion" : "ANDUSTAR",
+  "juego" : "PHANTOM HOURGLASS",
+  "espirituAnimal" : "CABRA"
+}, {
+  "id" : "CRT-28",
+  "nombre" : "TINGLE",
+  "apodo" : "TURKATRON",
+  "edad" : 45,
+  "nivel" : 19,
+  "peso" : 71.0,
+  "ubicacion" : "MEDUSELD",
+  "juego" : "PHANTOM HOURGLASS",
+  "espirituAnimal" : "BUEY"
+}, {
+  "id" : "CRT-29",
+  "nombre" : "DAQA KOTH",
+  "apodo" : "MASTER SHAKE",
+  "edad" : 53,
+  "nivel" : 7,
+  "peso" : 79.29,
+  "ubicacion" : "PARTH GALEN",
+  "juego" : "PHANTOM HOURGLASS",
+  "espirituAnimal" : "SERPIENTE"
+}, {
+  "id" : "CRT-30",
+  "nombre" : "ORCA",
+  "apodo" : "ERR",
+  "edad" : 53,
+  "nivel" : 84,
+  "peso" : 77.77,
+  "ubicacion" : "ORTHANC",
+  "juego" : "TWILIGHT PRINCESS",
+  "espirituAnimal" : "GALLO"
+}, {
+  "id" : "CRT-31",
+  "nombre" : "ZELDA",
+  "apodo" : "OGLETHORPE",
+  "edad" : 40,
+  "nivel" : 2,
+  "peso" : 89.74,
+  "ubicacion" : "BRIDGE OF KHAZAD-DÛM",
+  "juego" : "THE LEGEND OF ZELDA",
+  "espirituAnimal" : "CABRA"
+}, {
+  "id" : "CRT-32",
+  "nombre" : "BEEDLE",
+  "apodo" : "SKEETER",
+  "edad" : 32,
+  "nivel" : 48,
+  "peso" : 74.9,
+  "ubicacion" : "LUTHANY",
+  "juego" : "TWILIGHT PRINCESS",
+  "espirituAnimal" : "TIGRE"
+}, {
+  "id" : "CRT-33",
+  "nombre" : "YETO",
+  "apodo" : "SKEETER",
+  "edad" : 32,
+  "nivel" : 17,
+  "peso" : 93.64,
+  "ubicacion" : "ISLE OF BALAR",
+  "juego" : "LINK'S AWAKENING",
+  "espirituAnimal" : "PERRO"
+}, {
+  "id" : "CRT-34",
+  "nombre" : "OSHUS",
+  "apodo" : "EMORY",
+  "edad" : 36,
+  "nivel" : 80,
+  "peso" : 95.9,
+  "ubicacion" : "MARISH",
+  "juego" : "LINK'S AWAKENING",
+  "espirituAnimal" : "BUEY"
+}, {
+  "id" : "CRT-35",
+  "nombre" : "PRINCE OF HYRULE",
+  "apodo" : "CARL BRUTANANADILEWSKI",
+  "edad" : 25,
+  "nivel" : 41,
+  "peso" : 82.44,
+  "ubicacion" : "VAIYA",
+  "juego" : "BREATH OF THE WILD",
+  "espirituAnimal" : "GALLO"
+}, {
+  "id" : "CRT-36",
+  "nombre" : "MINA",
+  "apodo" : "CYBERNETIC GHOST OF CHRISTMAS PAST FROM THE FUTURE",
+  "edad" : 58,
+  "nivel" : 9,
+  "peso" : 88.67,
+  "ubicacion" : "GAP OF ROHAN",
+  "juego" : "BREATH OF THE WILD",
+  "espirituAnimal" : "TIGRE"
+}, {
+  "id" : "CRT-37",
+  "nombre" : "MEDIGORON",
+  "apodo" : "CARL BRUTANANADILEWSKI",
+  "edad" : 49,
+  "nivel" : 60,
+  "peso" : 77.95,
+  "ubicacion" : "MARISH",
+  "juego" : "THE WIND WAKER",
+  "espirituAnimal" : "TIGRE"
+}, {
+  "id" : "CRT-38",
+  "nombre" : "DAKA TUSS",
+  "apodo" : "MEATWAD",
+  "edad" : 35,
+  "nivel" : 35,
+  "peso" : 95.67,
+  "ubicacion" : "THE RIVERS AND BEACON-HILLS OF GONDOR",
+  "juego" : "PHANTOM HOURGLASS",
+  "espirituAnimal" : "TIGRE"
+}, {
+  "id" : "CRT-39",
+  "nombre" : "GRETA",
+  "apodo" : "MEATWAD",
+  "edad" : 62,
+  "nivel" : 20,
+  "peso" : 92.32,
+  "ubicacion" : "TOL BRANDIR",
+  "juego" : "PHANTOM HOURGLASS",
+  "espirituAnimal" : "SERPIENTE"
+}, {
+  "id" : "CRT-40",
+  "nombre" : "LAKNA ROKEE",
+  "apodo" : "D.P",
+  "edad" : 31,
+  "nivel" : 72,
+  "peso" : 94.19,
+  "ubicacion" : "EASTFARTHING",
+  "juego" : "OCARINA OF TIME",
+  "espirituAnimal" : "BUEY"
+}, {
+  "id" : "CRT-41",
+  "nombre" : "QUKAH NATA",
+  "apodo" : "CARL BRUTANANADILEWSKI",
+  "edad" : 53,
+  "nivel" : 45,
+  "peso" : 83.47,
+  "ubicacion" : "RIVENDELL",
+  "juego" : "ZELDA II: ADVENTURE OF LINK",
+  "espirituAnimal" : "GALLO"
+}, {
+  "id" : "CRT-42",
+  "nombre" : "TALON",
+  "apodo" : "DR. WONGBURGER",
+  "edad" : 50,
+  "nivel" : 2,
+  "peso" : 70.4,
+  "ubicacion" : "LOTHLORIÈN",
+  "juego" : "TWILIGHT PRINCESS",
+  "espirituAnimal" : "CABRA"
+}, {
+  "id" : "CRT-43",
+  "nombre" : "MAKAR",
+  "apodo" : "D.P",
+  "edad" : 51,
+  "nivel" : 24,
+  "peso" : 79.86,
+  "ubicacion" : "HOBBIT-HOLE",
+  "juego" : "THE MINISH CAP",
+  "espirituAnimal" : "PERRO"
+}, {
+  "id" : "CRT-44",
+  "nombre" : "NAYRU",
+  "apodo" : "ERR",
+  "edad" : 26,
+  "nivel" : 59,
+  "peso" : 86.87,
+  "ubicacion" : "BLACK GATE",
+  "juego" : "THE MINISH CAP",
+  "espirituAnimal" : "CERDO"
+}, {
+  "id" : "CRT-45",
+  "nombre" : "SAKON",
+  "apodo" : "GEORGE LOWE",
+  "edad" : 22,
+  "nivel" : 21,
+  "peso" : 85.29,
+  "ubicacion" : "COLDFELLS",
+  "juego" : "THE MINISH CAP",
+  "espirituAnimal" : "CABALLO"
+}, {
+  "id" : "CRT-46",
+  "nombre" : "DORIAN",
+  "apodo" : "D.P",
+  "edad" : 41,
+  "nivel" : 1,
+  "peso" : 93.42,
+  "ubicacion" : "LUTHANY",
+  "juego" : "THE MINISH CAP",
+  "espirituAnimal" : "DRAGON"
+}, {
+  "id" : "CRT-47",
+  "nombre" : "PADOK",
+  "apodo" : "MEATWAD",
+  "edad" : 28,
+  "nivel" : 69,
+  "peso" : 78.87,
+  "ubicacion" : "HOBBIT-HOLE",
+  "juego" : "A LINK TO THE PAST",
+  "espirituAnimal" : "SERPIENTE"
+}, {
+  "id" : "CRT-48",
+  "nombre" : "ZEPHOS",
+  "apodo" : "FRYLOCK",
+  "edad" : 40,
+  "nivel" : 73,
+  "peso" : 81.24,
+  "ubicacion" : "DARK LAND",
+  "juego" : "THE MINISH CAP",
+  "espirituAnimal" : "BUEY"
+}, {
+  "id" : "CRT-49",
+  "nombre" : "CHAAS QETA",
+  "apodo" : "IGNIGNOKT",
+  "edad" : 35,
+  "nivel" : 7,
+  "peso" : 96.14,
+  "ubicacion" : "ISENMOUTHE",
+  "juego" : "PHANTOM HOURGLASS",
+  "espirituAnimal" : "SERPIENTE"
+}, {
+  "id" : "CRT-50",
+  "nombre" : "THE PIRATES",
+  "apodo" : "IGNIGNOKT",
+  "edad" : 39,
+  "nivel" : 89,
+  "peso" : 73.99,
+  "ubicacion" : "FIELD OF CELEBRANT",
+  "juego" : "OCARINA OF TIME",
+  "espirituAnimal" : "SERPIENTE"
+}, {
+  "id" : "CRT-51",
+  "nombre" : "CHAMPIONS",
+  "apodo" : "OGLETHORPE",
+  "edad" : 23,
+  "nivel" : 6,
+  "peso" : 89.76,
+  "ubicacion" : "THE FORSAKEN INN",
+  "juego" : "THE LEGEND OF ZELDA",
+  "espirituAnimal" : "CERDO"
+}, {
+  "id" : "CRT-52",
+  "nombre" : "MAPLE",
+  "apodo" : "MASTER SHAKE",
+  "edad" : 67,
+  "nivel" : 74,
+  "peso" : 73.83,
+  "ubicacion" : "PELENNOR FIELDS",
+  "juego" : "FOUR SWORDS",
+  "espirituAnimal" : "PERRO"
+}, {
+  "id" : "CRT-53",
+  "nombre" : "WALRUS",
+  "apodo" : "CYBERNETIC GHOST OF CHRISTMAS PAST FROM THE FUTURE",
+  "edad" : 66,
+  "nivel" : 57,
+  "peso" : 77.18,
+  "ubicacion" : "EÄ",
+  "juego" : "A LINK TO THE PAST",
+  "espirituAnimal" : "BUEY"
+}, {
+  "id" : "CRT-54",
+  "nombre" : "OSHUS",
+  "apodo" : "CYBERNETIC GHOST OF CHRISTMAS PAST FROM THE FUTURE",
+  "edad" : 32,
+  "nivel" : 14,
+  "peso" : 90.77,
+  "ubicacion" : "EAST ROAD",
+  "juego" : "A LINK TO THE PAST",
+  "espirituAnimal" : "BUEY"
+}, {
+  "id" : "CRT-55",
+  "nombre" : "OWA DAIM",
+  "apodo" : "OGLETHORPE",
+  "edad" : 55,
+  "nivel" : 40,
+  "peso" : 87.33,
+  "ubicacion" : "EAST ROAD",
+  "juego" : "TWILIGHT PRINCESS",
+  "espirituAnimal" : "DRAGON"
+}, {
+  "id" : "CRT-56",
+  "nombre" : "DARMANI III",
+  "apodo" : "DR. WONGBURGER",
+  "edad" : 35,
+  "nivel" : 61,
+  "peso" : 70.17,
+  "ubicacion" : "TAUR-IM-DUINATH",
+  "juego" : "THE LEGEND OF ZELDA",
+  "espirituAnimal" : "CABALLO"
+}, {
+  "id" : "CRT-57",
+  "nombre" : "BOW-WOW",
+  "apodo" : "MASTER SHAKE",
+  "edad" : 21,
+  "nivel" : 5,
+  "peso" : 78.79,
+  "ubicacion" : "GREENWAY",
+  "juego" : "A LINK TO THE PAST",
+  "espirituAnimal" : "GALLO"
+}, {
+  "id" : "CRT-58",
+  "nombre" : "RALPH",
+  "apodo" : "OGLETHORPE",
+  "edad" : 42,
+  "nivel" : 23,
+  "peso" : 95.66,
+  "ubicacion" : "VISTA",
+  "juego" : "THE MINISH CAP",
+  "espirituAnimal" : "BUEY"
+}, {
+  "id" : "CRT-59",
+  "nombre" : "DEKKI",
+  "apodo" : "SKEETER",
+  "edad" : 21,
+  "nivel" : 12,
+  "peso" : 73.21,
+  "ubicacion" : "HENNETH ANNÛN",
+  "juego" : "PHANTOM HOURGLASS",
+  "espirituAnimal" : "TIGRE"
+}, {
+  "id" : "CRT-60",
+  "nombre" : "MARIN",
+  "apodo" : "STEVE",
+  "edad" : 58,
+  "nivel" : 77,
+  "peso" : 81.57,
+  "ubicacion" : "VISTA",
+  "juego" : "BREATH OF THE WILD",
+  "espirituAnimal" : "CABRA"
+}, {
+  "id" : "CRT-61",
+  "nombre" : "JA BAIJ",
+  "apodo" : "D.P",
+  "edad" : 37,
+  "nivel" : 19,
+  "peso" : 92.97,
+  "ubicacion" : "LUTHANY",
+  "juego" : "ZELDA II: ADVENTURE OF LINK",
+  "espirituAnimal" : "CABRA"
+}, {
+  "id" : "CRT-62",
+  "nombre" : "MIDNA",
+  "apodo" : "SKEETER",
+  "edad" : 30,
+  "nivel" : 1,
+  "peso" : 72.01,
+  "ubicacion" : "CRACK OF DOOM",
+  "juego" : "ZELDA II: ADVENTURE OF LINK",
+  "espirituAnimal" : "BUEY"
+}, {
+  "id" : "CRT-63",
+  "nombre" : "MAYOR HAGEN",
+  "apodo" : "MEATWAD",
+  "edad" : 53,
+  "nivel" : 49,
+  "peso" : 87.77,
+  "ubicacion" : "HAUDH-EN-NIRNAETH",
+  "juego" : "THE WIND WAKER",
+  "espirituAnimal" : "PERRO"
+}, {
+  "id" : "CRT-64",
+  "nombre" : "DEPPI",
+  "apodo" : "TURKATRON",
+  "edad" : 51,
+  "nivel" : 53,
+  "peso" : 80.79,
+  "ubicacion" : "ENDLESS STAIR",
+  "juego" : "ORACLE OF SEASONS - ORACLE OF AGES",
+  "espirituAnimal" : "BUEY"
+}, {
+  "id" : "CRT-65",
+  "nombre" : "MUTOH",
+  "apodo" : "MC PEE PANTS",
+  "edad" : 25,
+  "nivel" : 15,
+  "peso" : 86.0,
+  "ubicacion" : "FIELD OF CELEBRANT",
+  "juego" : "FOUR SWORDS",
+  "espirituAnimal" : "SERPIENTE"
+}, {
+  "id" : "CRT-66",
+  "nombre" : "MO'A KEET",
+  "apodo" : "CYBERNETIC GHOST OF CHRISTMAS PAST FROM THE FUTURE",
+  "edad" : 30,
+  "nivel" : 49,
+  "peso" : 78.47,
+  "ubicacion" : "ENDLESS STAIR",
+  "juego" : "TWILIGHT PRINCESS",
+  "espirituAnimal" : "CABALLO"
+}, {
+  "id" : "CRT-67",
+  "nombre" : "FORTUNE TELLER",
+  "apodo" : "DR. WEIRD",
+  "edad" : 43,
+  "nivel" : 9,
+  "peso" : 70.22,
+  "ubicacion" : "LAND OF THE SUN",
+  "juego" : "MAJORA'S MASK",
+  "espirituAnimal" : "GALLO"
+}, {
+  "id" : "CRT-68",
+  "nombre" : "SYMIN",
+  "apodo" : "MASTER SHAKE",
+  "edad" : 60,
+  "nivel" : 67,
+  "peso" : 71.49,
+  "ubicacion" : "FALLS OF RAUROS",
+  "juego" : "BREATH OF THE WILD",
+  "espirituAnimal" : "SERPIENTE"
+}, {
+  "id" : "CRT-69",
+  "nombre" : "PERCY",
+  "apodo" : "STEVE",
+  "edad" : 61,
+  "nivel" : 36,
+  "peso" : 79.05,
+  "ubicacion" : "TUMLADEN",
+  "juego" : "THE MINISH CAP",
+  "espirituAnimal" : "CABALLO"
+}, {
+  "id" : "CRT-70",
+  "nombre" : "ZANT",
+  "apodo" : "STEVE",
+  "edad" : 50,
+  "nivel" : 52,
+  "peso" : 70.88,
+  "ubicacion" : "GLADDEN FIELDS",
+  "juego" : "THE LEGEND OF ZELDA",
+  "espirituAnimal" : "DRAGON"
+}, {
+  "id" : "CRT-71",
+  "nombre" : "DARTON",
+  "apodo" : "DR. WEIRD",
+  "edad" : 55,
+  "nivel" : 45,
+  "peso" : 76.29,
+  "ubicacion" : "EAST ROAD",
+  "juego" : "OCARINA OF TIME",
+  "espirituAnimal" : "TIGRE"
+}, {
+  "id" : "CRT-72",
+  "nombre" : "TETRA",
+  "apodo" : "FRYLOCK",
+  "edad" : 57,
+  "nivel" : 76,
+  "peso" : 71.63,
+  "ubicacion" : "DARK LAND",
+  "juego" : "MAJORA'S MASK",
+  "espirituAnimal" : "CABALLO"
+}, {
+  "id" : "CRT-73",
+  "nombre" : "DAPHNES NOHANSEN HYRULE",
+  "apodo" : "TURKATRON",
+  "edad" : 46,
+  "nivel" : 37,
+  "peso" : 90.94,
+  "ubicacion" : "ENCHANTED ISLES",
+  "juego" : "PHANTOM HOURGLASS",
+  "espirituAnimal" : "PERRO"
+}, {
+  "id" : "CRT-74",
+  "nombre" : "FISHMAN",
+  "apodo" : "ERR",
+  "edad" : 69,
+  "nivel" : 50,
+  "peso" : 81.08,
+  "ubicacion" : "THE FORSAKEN INN",
+  "juego" : "MAJORA'S MASK",
+  "espirituAnimal" : "DRAGON"
+}, {
+  "id" : "CRT-75",
+  "nombre" : "WALTON",
+  "apodo" : "DR. WONGBURGER",
+  "edad" : 28,
+  "nivel" : 65,
+  "peso" : 76.66,
+  "ubicacion" : "TOL MORWEN",
+  "juego" : "THE MINISH CAP",
+  "espirituAnimal" : "BUEY"
+}, {
+  "id" : "CRT-76",
+  "nombre" : "KOMALI",
+  "apodo" : "SKEETER",
+  "edad" : 53,
+  "nivel" : 87,
+  "peso" : 75.26,
+  "ubicacion" : "OLD FORD",
+  "juego" : "THE MINISH CAP",
+  "espirituAnimal" : "BUEY"
+}, {
+  "id" : "CRT-77",
+  "nombre" : "JOUTE",
+  "apodo" : "TURKATRON",
+  "edad" : 33,
+  "nivel" : 17,
+  "peso" : 76.28,
+  "ubicacion" : "HELM'S DEEP",
+  "juego" : "LINK'S AWAKENING",
+  "espirituAnimal" : "PERRO"
+}, {
+  "id" : "CRT-78",
+  "nombre" : "FARORE",
+  "apodo" : "FRYLOCK",
+  "edad" : 20,
+  "nivel" : 82,
+  "peso" : 89.08,
+  "ubicacion" : "LOSGAR",
+  "juego" : "LINK'S AWAKENING",
+  "espirituAnimal" : "BUEY"
+}, {
+  "id" : "CRT-79",
+  "nombre" : "BIGGORON",
+  "apodo" : "STEVE",
+  "edad" : 34,
+  "nivel" : 89,
+  "peso" : 72.59,
+  "ubicacion" : "ORTHANC",
+  "juego" : "THE MINISH CAP",
+  "espirituAnimal" : "SERPIENTE"
+}, {
+  "id" : "CRT-80",
+  "nombre" : "ANJU'S MOTHER",
+  "apodo" : "CARL BRUTANANADILEWSKI",
+  "edad" : 49,
+  "nivel" : 68,
+  "peso" : 80.49,
+  "ubicacion" : "WARNING BEACONS OF GONDOR",
+  "juego" : "A LINK TO THE PAST",
+  "espirituAnimal" : "PERRO"
+}, {
+  "id" : "CRT-81",
+  "nombre" : "BOW-WOW",
+  "apodo" : "OGLETHORPE",
+  "edad" : 66,
+  "nivel" : 52,
+  "peso" : 70.44,
+  "ubicacion" : "MAGLOR'S GAP",
+  "juego" : "ORACLE OF SEASONS - ORACLE OF AGES",
+  "espirituAnimal" : "GALLO"
+}, {
+  "id" : "CRT-82",
+  "nombre" : "TRAVELING MERCHANTS",
+  "apodo" : "OGLETHORPE",
+  "edad" : 60,
+  "nivel" : 89,
+  "peso" : 77.06,
+  "ubicacion" : "TAUR-IM-DUINATH",
+  "juego" : "ZELDA II: ADVENTURE OF LINK",
+  "espirituAnimal" : "CABRA"
+}, {
+  "id" : "CRT-83",
+  "nombre" : "DECCI",
+  "apodo" : "ERR",
+  "edad" : 22,
+  "nivel" : 20,
+  "peso" : 89.18,
+  "ubicacion" : "TAUR-EN-FAROTH",
+  "juego" : "THE MINISH CAP",
+  "espirituAnimal" : "PERRO"
+}, {
+  "id" : "CRT-84",
+  "nombre" : "BROCCO",
+  "apodo" : "DR. WEIRD",
+  "edad" : 24,
+  "nivel" : 63,
+  "peso" : 70.0,
+  "ubicacion" : "ARGONATH",
+  "juego" : "TWILIGHT PRINCESS",
+  "espirituAnimal" : "TIGRE"
+}, {
+  "id" : "CRT-85",
+  "nombre" : "LASLI",
+  "apodo" : "MASTER SHAKE",
+  "edad" : 56,
+  "nivel" : 44,
+  "peso" : 96.65,
+  "ubicacion" : "TAUR-EN-FAROTH",
+  "juego" : "PHANTOM HOURGLASS",
+  "espirituAnimal" : "GALLO"
+}, {
+  "id" : "CRT-86",
+  "nombre" : "BLAINO",
+  "apodo" : "CARL BRUTANANADILEWSKI",
+  "edad" : 36,
+  "nivel" : 38,
+  "peso" : 91.94,
+  "ubicacion" : "ARGONATH",
+  "juego" : "PHANTOM HOURGLASS",
+  "espirituAnimal" : "DRAGON"
+}, {
+  "id" : "CRT-87",
+  "nombre" : "DAAG CHOKAH",
+  "apodo" : "GEORGE LOWE",
+  "edad" : 27,
+  "nivel" : 46,
+  "peso" : 73.14,
+  "ubicacion" : "ISENGARD",
+  "juego" : "TWILIGHT PRINCESS",
+  "espirituAnimal" : "CABRA"
+}, {
+  "id" : "CRT-88",
+  "nombre" : "MESA",
+  "apodo" : "MEATWAD",
+  "edad" : 42,
+  "nivel" : 8,
+  "peso" : 84.06,
+  "ubicacion" : "FORDS OF ISEN",
+  "juego" : "PHANTOM HOURGLASS",
+  "espirituAnimal" : "TIGRE"
+}, {
+  "id" : "CRT-89",
+  "nombre" : "QUEEN AMBI",
+  "apodo" : "DR. WEIRD",
+  "edad" : 31,
+  "nivel" : 90,
+  "peso" : 76.68,
+  "ubicacion" : "EÄ",
+  "juego" : "THE MINISH CAP",
+  "espirituAnimal" : "BUEY"
+}, {
+  "id" : "CRT-90",
+  "nombre" : "KOHGA",
+  "apodo" : "OGLETHORPE",
+  "edad" : 66,
+  "nivel" : 47,
+  "peso" : 84.65,
+  "ubicacion" : "LOTHLORIÈN",
+  "juego" : "FOUR SWORDS",
+  "espirituAnimal" : "TIGRE"
+}, {
+  "id" : "CRT-91",
+  "nombre" : "MARATHON MAN",
+  "apodo" : "CARL BRUTANANADILEWSKI",
+  "edad" : 40,
+  "nivel" : 41,
+  "peso" : 79.77,
+  "ubicacion" : "HAVEN OF THE ELDAR",
+  "juego" : "THE LEGEND OF ZELDA",
+  "espirituAnimal" : "DRAGON"
+}, {
+  "id" : "CRT-92",
+  "nombre" : "POTHO",
+  "apodo" : "DR. WONGBURGER",
+  "edad" : 50,
+  "nivel" : 56,
+  "peso" : 88.75,
+  "ubicacion" : "ANGBAND",
+  "juego" : "OCARINA OF TIME",
+  "espirituAnimal" : "BUEY"
+}, {
+  "id" : "CRT-93",
+  "nombre" : "ILIA",
+  "apodo" : "ERR",
+  "edad" : 46,
+  "nivel" : 81,
+  "peso" : 75.66,
+  "ubicacion" : "FENS OF SERECH",
+  "juego" : "OCARINA OF TIME",
+  "espirituAnimal" : "SERPIENTE"
+}, {
+  "id" : "CRT-94",
+  "nombre" : "MAD BATTER",
+  "apodo" : "DR. WONGBURGER",
+  "edad" : 58,
+  "nivel" : 14,
+  "peso" : 73.11,
+  "ubicacion" : "MINHIRIATH",
+  "juego" : "THE MINISH CAP",
+  "espirituAnimal" : "CONEJO"
+}, {
+  "id" : "CRT-95",
+  "nombre" : "AKH VA'QUOT",
+  "apodo" : "STEVE",
+  "edad" : 61,
+  "nivel" : 66,
+  "peso" : 77.92,
+  "ubicacion" : "HELM'S DEEP",
+  "juego" : "A LINK TO THE PAST",
+  "espirituAnimal" : "BUEY"
+}, {
+  "id" : "CRT-96",
+  "nombre" : "AKH VA'QUOT",
+  "apodo" : "MC PEE PANTS",
+  "edad" : 63,
+  "nivel" : 8,
+  "peso" : 72.44,
+  "ubicacion" : "OLD FORD",
+  "juego" : "OCARINA OF TIME",
+  "espirituAnimal" : "PERRO"
+}, {
+  "id" : "CRT-97",
+  "nombre" : "POTHO",
+  "apodo" : "DR. WONGBURGER",
+  "edad" : 26,
+  "nivel" : 85,
+  "peso" : 78.94,
+  "ubicacion" : "MARISH",
+  "juego" : "PHANTOM HOURGLASS",
+  "espirituAnimal" : "TIGRE"
+}, {
+  "id" : "CRT-98",
+  "nombre" : "CRAZY TRACY",
+  "apodo" : "IGNIGNOKT",
+  "edad" : 61,
+  "nivel" : 56,
+  "peso" : 71.17,
+  "ubicacion" : "HELM'S DEEP",
+  "juego" : "TWILIGHT PRINCESS",
+  "espirituAnimal" : "SERPIENTE"
+}, {
+  "id" : "CRT-99",
+  "nombre" : "MELLIE",
+  "apodo" : "EMORY",
+  "edad" : 36,
+  "nivel" : 57,
+  "peso" : 88.87,
+  "ubicacion" : "ENDLESS STAIR",
+  "juego" : "MAJORA'S MASK",
+  "espirituAnimal" : "BUEY"
+}, {
+  "id" : "CRT-100",
+  "nombre" : "FESTARI",
+  "apodo" : "TURKATRON",
+  "edad" : 62,
+  "nivel" : 50,
+  "peso" : 81.59,
+  "ubicacion" : "HELM'S DEEP",
+  "juego" : "A LINK TO THE PAST",
+  "espirituAnimal" : "CABRA"
+}, {
+  "id" : "CRT-101",
+  "nombre" : "DIN",
+  "apodo" : "MC PEE PANTS",
+  "edad" : 68,
+  "nivel" : 22,
+  "peso" : 88.95,
+  "ubicacion" : "ALDBURG",
+  "juego" : "THE WIND WAKER",
+  "espirituAnimal" : "DRAGON"
+}, {
+  "id" : "CRT-102",
+  "nombre" : "MUTOH",
+  "apodo" : "STEVE",
+  "edad" : 51,
+  "nivel" : 36,
+  "peso" : 86.86,
+  "ubicacion" : "TOL BRANDIR",
+  "juego" : "PHANTOM HOURGLASS",
+  "espirituAnimal" : "DRAGON"
+}, {
+  "id" : "CRT-103",
+  "nombre" : "SUBROSIAN QUEEN",
+  "apodo" : "SKEETER",
+  "edad" : 65,
+  "nivel" : 33,
+  "peso" : 78.23,
+  "ubicacion" : "FENS OF SERECH",
+  "juego" : "THE LEGEND OF ZELDA",
+  "espirituAnimal" : "PERRO"
+}, {
+  "id" : "CRT-104",
+  "nombre" : "MESA",
+  "apodo" : "ERR",
+  "edad" : 30,
+  "nivel" : 70,
+  "peso" : 72.75,
+  "ubicacion" : "MEDUSELD",
+  "juego" : "MAJORA'S MASK",
+  "espirituAnimal" : "CERDO"
+}, {
+  "id" : "CRT-105",
+  "nombre" : "PAYA",
+  "apodo" : "IGNIGNOKT",
+  "edad" : 52,
+  "nivel" : 71,
+  "peso" : 71.26,
+  "ubicacion" : "CARCHOST",
+  "juego" : "OCARINA OF TIME",
+  "espirituAnimal" : "DRAGON"
+}, {
+  "id" : "CRT-106",
+  "nombre" : "SKULL KID",
+  "apodo" : "TURKATRON",
+  "edad" : 67,
+  "nivel" : 14,
+  "peso" : 89.35,
+  "ubicacion" : "OLD FOREST",
+  "juego" : "THE WIND WAKER",
+  "espirituAnimal" : "TIGRE"
+}, {
+  "id" : "CRT-107",
+  "nombre" : "DALIA",
+  "apodo" : "OGLETHORPE",
+  "edad" : 65,
+  "nivel" : 49,
+  "peso" : 78.55,
+  "ubicacion" : "ILMEN",
+  "juego" : "PHANTOM HOURGLASS",
+  "espirituAnimal" : "RATA"
+}, {
+  "id" : "CRT-108",
+  "nombre" : "KING OF HYRULE",
+  "apodo" : "GEORGE LOWE",
+  "edad" : 53,
+  "nivel" : 62,
+  "peso" : 72.45,
+  "ubicacion" : "COLDFELLS",
+  "juego" : "LINK'S AWAKENING",
+  "espirituAnimal" : "BUEY"
+}, {
+  "id" : "CRT-109",
+  "nombre" : "LARUTO",
+  "apodo" : "GEORGE LOWE",
+  "edad" : 64,
+  "nivel" : 81,
+  "peso" : 75.0,
+  "ubicacion" : "TOL MORWEN",
+  "juego" : "PHANTOM HOURGLASS",
+  "espirituAnimal" : "SERPIENTE"
+}, {
+  "id" : "CRT-110",
+  "nombre" : "PURAH",
+  "apodo" : "ERR",
+  "edad" : 37,
+  "nivel" : 63,
+  "peso" : 70.15,
+  "ubicacion" : "PELENNOR FIELDS",
+  "juego" : "MAJORA'S MASK",
+  "espirituAnimal" : "DRAGON"
+}, {
+  "id" : "CRT-111",
+  "nombre" : "RENSA",
+  "apodo" : "CARL BRUTANANADILEWSKI",
+  "edad" : 34,
+  "nivel" : 53,
+  "peso" : 90.63,
+  "ubicacion" : "CIRITH UNGOL",
+  "juego" : "OCARINA OF TIME",
+  "espirituAnimal" : "PERRO"
+}, {
+  "id" : "CRT-112",
+  "nombre" : "GRETA",
+  "apodo" : "CYBERNETIC GHOST OF CHRISTMAS PAST FROM THE FUTURE",
+  "edad" : 68,
+  "nivel" : 5,
+  "peso" : 80.96,
+  "ubicacion" : "ILMEN",
+  "juego" : "A LINK TO THE PAST",
+  "espirituAnimal" : "CABALLO"
+}, {
+  "id" : "CRT-113",
+  "nombre" : "TINGLE",
+  "apodo" : "MEATWAD",
+  "edad" : 69,
+  "nivel" : 30,
+  "peso" : 70.67,
+  "ubicacion" : "DARK LAND",
+  "juego" : "PHANTOM HOURGLASS",
+  "espirituAnimal" : "RATA"
+}, {
+  "id" : "CRT-114",
+  "nombre" : "MUWO JEEM",
+  "apodo" : "TURKATRON",
+  "edad" : 58,
+  "nivel" : 6,
+  "peso" : 73.26,
+  "ubicacion" : "GREENWAY",
+  "juego" : "THE MINISH CAP",
+  "espirituAnimal" : "GALLO"
+}, {
+  "id" : "CRT-115",
+  "nombre" : "MINA",
+  "apodo" : "D.P",
+  "edad" : 24,
+  "nivel" : 26,
+  "peso" : 90.36,
+  "ubicacion" : "CARCHOST",
+  "juego" : "FOUR SWORDS",
+  "espirituAnimal" : "GALLO"
+}, {
+  "id" : "CRT-116",
+  "nombre" : "QUEEN AMBI",
+  "apodo" : "STEVE",
+  "edad" : 26,
+  "nivel" : 84,
+  "peso" : 88.36,
+  "ubicacion" : "AGLAROND",
+  "juego" : "TWILIGHT PRINCESS",
+  "espirituAnimal" : "CABALLO"
+}, {
+  "id" : "CRT-117",
+  "nombre" : "TWINROVA",
+  "apodo" : "CYBERNETIC GHOST OF CHRISTMAS PAST FROM THE FUTURE",
+  "edad" : 65,
+  "nivel" : 18,
+  "peso" : 74.06,
+  "ubicacion" : "THE VOID",
+  "juego" : "LINK'S AWAKENING",
+  "espirituAnimal" : "CERDO"
+}, {
+  "id" : "CRT-118",
+  "nombre" : "MIKAU",
+  "apodo" : "EMORY",
+  "edad" : 48,
+  "nivel" : 5,
+  "peso" : 70.47,
+  "ubicacion" : "HOUSES OF HEALING",
+  "juego" : "LINK'S AWAKENING",
+  "espirituAnimal" : "CABRA"
+}, {
+  "id" : "CRT-119",
+  "nombre" : "DEKKI",
+  "apodo" : "TURKATRON",
+  "edad" : 61,
+  "nivel" : 77,
+  "peso" : 97.24,
+  "ubicacion" : "LAND OF THE SUN",
+  "juego" : "MAJORA'S MASK",
+  "espirituAnimal" : "PERRO"
+}, {
+  "id" : "CRT-120",
+  "nombre" : "TALO",
+  "apodo" : "IGNIGNOKT",
+  "edad" : 35,
+  "nivel" : 18,
+  "peso" : 90.7,
+  "ubicacion" : "LOSGAR",
+  "juego" : "OCARINA OF TIME",
+  "espirituAnimal" : "DRAGON"
+}, {
+  "id" : "CRT-121",
+  "nombre" : "NE'EZ YOHMA",
+  "apodo" : "EMORY",
+  "edad" : 37,
+  "nivel" : 54,
+  "peso" : 74.64,
+  "ubicacion" : "DORIATH",
+  "juego" : "BREATH OF THE WILD",
+  "espirituAnimal" : "SERPIENTE"
+}, {
+  "id" : "CRT-122",
+  "nombre" : "PATCH",
+  "apodo" : "CYBERNETIC GHOST OF CHRISTMAS PAST FROM THE FUTURE",
+  "edad" : 63,
+  "nivel" : 3,
+  "peso" : 96.22,
+  "ubicacion" : "DOL GULDUR",
+  "juego" : "ZELDA II: ADVENTURE OF LINK",
+  "espirituAnimal" : "BUEY"
+}, {
+  "id" : "CRT-123",
+  "nombre" : "GRETA",
+  "apodo" : "SKEETER",
+  "edad" : 67,
+  "nivel" : 57,
+  "peso" : 75.53,
+  "ubicacion" : "DOME OF STARS",
+  "juego" : "THE WIND WAKER",
+  "espirituAnimal" : "CONEJO"
+}, {
+  "id" : "CRT-124",
+  "nombre" : "ROTA OOH",
+  "apodo" : "IGNIGNOKT",
+  "edad" : 38,
+  "nivel" : 81,
+  "peso" : 72.21,
+  "ubicacion" : "LAND OF THE SUN",
+  "juego" : "BREATH OF THE WILD",
+  "espirituAnimal" : "PERRO"
+}, {
+  "id" : "CRT-125",
+  "nombre" : "KING OF HYRULE",
+  "apodo" : "OGLETHORPE",
+  "edad" : 34,
+  "nivel" : 55,
+  "peso" : 82.67,
+  "ubicacion" : "BLACK GATE",
+  "juego" : "ORACLE OF SEASONS - ORACLE OF AGES",
+  "espirituAnimal" : "DRAGON"
+}, {
+  "id" : "CRT-126",
+  "nombre" : "EDDO",
+  "apodo" : "MC PEE PANTS",
+  "edad" : 31,
+  "nivel" : 54,
+  "peso" : 82.6,
+  "ubicacion" : "DOME OF STARS",
+  "juego" : "BREATH OF THE WILD",
+  "espirituAnimal" : "DRAGON"
+}, {
+  "id" : "CRT-127",
+  "nombre" : "MO'A KEET",
+  "apodo" : "SKEETER",
+  "edad" : 36,
+  "nivel" : 73,
+  "peso" : 70.44,
+  "ubicacion" : "ORTHANC",
+  "juego" : "OCARINA OF TIME",
+  "espirituAnimal" : "RATA"
+}, {
+  "id" : "CRT-128",
+  "nombre" : "CARLOV",
+  "apodo" : "DR. WONGBURGER",
+  "edad" : 60,
+  "nivel" : 66,
+  "peso" : 95.98,
+  "ubicacion" : "CARCHOST",
+  "juego" : "MAJORA'S MASK",
+  "espirituAnimal" : "CERDO"
+}, {
+  "id" : "CRT-129",
+  "nombre" : "MR. WRITE",
+  "apodo" : "CARL BRUTANANADILEWSKI",
+  "edad" : 58,
+  "nivel" : 76,
+  "peso" : 78.85,
+  "ubicacion" : "EAST ROAD",
+  "juego" : "TWILIGHT PRINCESS",
+  "espirituAnimal" : "TIGRE"
+}, {
+  "id" : "CRT-130",
+  "nombre" : "GREAT MOBLIN",
+  "apodo" : "IGNIGNOKT",
+  "edad" : 49,
+  "nivel" : 46,
+  "peso" : 80.14,
+  "ubicacion" : "UTUMNO",
+  "juego" : "ZELDA II: ADVENTURE OF LINK",
+  "espirituAnimal" : "PERRO"
+}, {
+  "id" : "CRT-131",
+  "nombre" : "CARLOV",
+  "apodo" : "TURKATRON",
+  "edad" : 40,
+  "nivel" : 7,
+  "peso" : 95.74,
+  "ubicacion" : "LAND OF THE SUN",
+  "juego" : "THE WIND WAKER",
+  "espirituAnimal" : "CABRA"
+}, {
+  "id" : "CRT-132",
+  "nombre" : "SPRINN",
+  "apodo" : "MASTER SHAKE",
+  "edad" : 49,
+  "nivel" : 31,
+  "peso" : 82.88,
+  "ubicacion" : "AGLAROND",
+  "juego" : "ZELDA II: ADVENTURE OF LINK",
+  "espirituAnimal" : "CABRA"
+}, {
+  "id" : "CRT-133",
+  "nombre" : "FLAT",
+  "apodo" : "DR. WEIRD",
+  "edad" : 31,
+  "nivel" : 38,
+  "peso" : 90.39,
+  "ubicacion" : "OLD FOREST ROAD",
+  "juego" : "FOUR SWORDS",
+  "espirituAnimal" : "GALLO"
+}, {
+  "id" : "CRT-134",
+  "nombre" : "ASTRID",
+  "apodo" : "CARL BRUTANANADILEWSKI",
+  "edad" : 45,
+  "nivel" : 74,
+  "peso" : 88.58,
+  "ubicacion" : "EAST ROAD",
+  "juego" : "LINK'S AWAKENING",
+  "espirituAnimal" : "GALLO"
+}, {
+  "id" : "CRT-135",
+  "nombre" : "KAFEI",
+  "apodo" : "OGLETHORPE",
+  "edad" : 43,
+  "nivel" : 16,
+  "peso" : 79.28,
+  "ubicacion" : "OLD FOREST",
+  "juego" : "LINK'S AWAKENING",
+  "espirituAnimal" : "DRAGON"
+}, {
+  "id" : "CRT-136",
+  "nombre" : "SHARP",
+  "apodo" : "EMORY",
+  "edad" : 26,
+  "nivel" : 46,
+  "peso" : 81.33,
+  "ubicacion" : "FENS OF SERECH",
+  "juego" : "FOUR SWORDS",
+  "espirituAnimal" : "CABALLO"
+}, {
+  "id" : "CRT-137",
+  "nombre" : "LINK",
+  "apodo" : "MEATWAD",
+  "edad" : 36,
+  "nivel" : 19,
+  "peso" : 70.61,
+  "ubicacion" : "FENS OF SERECH",
+  "juego" : "A LINK TO THE PAST",
+  "espirituAnimal" : "TIGRE"
+}, {
+  "id" : "CRT-138",
+  "nombre" : "SHOPKEEPER",
+  "apodo" : "STEVE",
+  "edad" : 23,
+  "nivel" : 37,
+  "peso" : 92.86,
+  "ubicacion" : "EASTFARTHING",
+  "juego" : "A LINK TO THE PAST",
+  "espirituAnimal" : "SERPIENTE"
+}, {
+  "id" : "CRT-139",
+  "nombre" : "JITAN SA'MI",
+  "apodo" : "TURKATRON",
+  "edad" : 34,
+  "nivel" : 58,
+  "peso" : 86.61,
+  "ubicacion" : "BARAD-DÛR",
+  "juego" : "FOUR SWORDS",
+  "espirituAnimal" : "CABALLO"
+}, {
+  "id" : "CRT-140",
+  "nombre" : "VAATI",
+  "apodo" : "TURKATRON",
+  "edad" : 68,
+  "nivel" : 42,
+  "peso" : 84.37,
+  "ubicacion" : "ISLE OF BALAR",
+  "juego" : "ZELDA II: ADVENTURE OF LINK",
+  "espirituAnimal" : "CABALLO"
+}, {
+  "id" : "CRT-141",
+  "nombre" : "MAD BATTER",
+  "apodo" : "IGNIGNOKT",
+  "edad" : 40,
+  "nivel" : 78,
+  "peso" : 93.45,
+  "ubicacion" : "ISENMOUTHE",
+  "juego" : "THE MINISH CAP",
+  "espirituAnimal" : "CERDO"
+}, {
+  "id" : "CRT-142",
+  "nombre" : "QUKAH NATA",
+  "apodo" : "CARL BRUTANANADILEWSKI",
+  "edad" : 39,
+  "nivel" : 69,
+  "peso" : 95.49,
+  "ubicacion" : "ARGONATH",
+  "juego" : "A LINK TO THE PAST",
+  "espirituAnimal" : "RATA"
+}, {
+  "id" : "CRT-143",
+  "nombre" : "INGO",
+  "apodo" : "IGNIGNOKT",
+  "edad" : 59,
+  "nivel" : 63,
+  "peso" : 91.35,
+  "ubicacion" : "COLDFELLS",
+  "juego" : "PHANTOM HOURGLASS",
+  "espirituAnimal" : "GALLO"
+}, {
+  "id" : "CRT-144",
+  "nombre" : "MUTOH",
+  "apodo" : "ERR",
+  "edad" : 57,
+  "nivel" : 32,
+  "peso" : 95.45,
+  "ubicacion" : "GORGOROTH",
+  "juego" : "A LINK TO THE PAST",
+  "espirituAnimal" : "CONEJO"
+}, {
+  "id" : "CRT-145",
+  "nombre" : "ZEPHOS",
+  "apodo" : "OGLETHORPE",
+  "edad" : 38,
+  "nivel" : 6,
+  "peso" : 88.12,
+  "ubicacion" : "FIELD OF CELEBRANT",
+  "juego" : "MAJORA'S MASK",
+  "espirituAnimal" : "BUEY"
+}, {
+  "id" : "CRT-146",
+  "nombre" : "KING DALTUS",
+  "apodo" : "CARL BRUTANANADILEWSKI",
+  "edad" : 32,
+  "nivel" : 80,
+  "peso" : 75.0,
+  "ubicacion" : "TAUR-EN-FAROTH",
+  "juego" : "OCARINA OF TIME",
+  "espirituAnimal" : "BUEY"
+}, {
+  "id" : "CRT-147",
+  "nombre" : "THE PIRATES",
+  "apodo" : "TURKATRON",
+  "edad" : 30,
+  "nivel" : 88,
+  "peso" : 73.85,
+  "ubicacion" : "LOSGAR",
+  "juego" : "ZELDA II: ADVENTURE OF LINK",
+  "espirituAnimal" : "DRAGON"
+}, {
+  "id" : "CRT-148",
+  "nombre" : "FAIRY",
+  "apodo" : "MASTER SHAKE",
+  "edad" : 40,
+  "nivel" : 59,
+  "peso" : 93.66,
+  "ubicacion" : "ISENGARD",
+  "juego" : "BREATH OF THE WILD",
+  "espirituAnimal" : "CONEJO"
+}, {
+  "id" : "CRT-149",
+  "nombre" : "LAKNA ROKEE",
+  "apodo" : "MC PEE PANTS",
+  "edad" : 24,
+  "nivel" : 58,
+  "peso" : 93.58,
+  "ubicacion" : "WARNING BEACONS OF GONDOR",
+  "juego" : "LINK'S AWAKENING",
+  "espirituAnimal" : "CABRA"
+}, {
+  "id" : "CRT-150",
+  "nombre" : "SKULL KID",
+  "apodo" : "MC PEE PANTS",
+  "edad" : 62,
+  "nivel" : 16,
+  "peso" : 91.58,
+  "ubicacion" : "PARTH GALEN",
+  "juego" : "OCARINA OF TIME",
+  "espirituAnimal" : "DRAGON"
+}, {
+  "id" : "CRT-151",
+  "nombre" : "PRINCE SIDON",
+  "apodo" : "DR. WONGBURGER",
+  "edad" : 25,
+  "nivel" : 62,
+  "peso" : 75.47,
+  "ubicacion" : "CRACK OF DOOM",
+  "juego" : "THE MINISH CAP",
+  "espirituAnimal" : "CERDO"
+}, {
+  "id" : "CRT-152",
+  "nombre" : "SOKRA",
+  "apodo" : "OGLETHORPE",
+  "edad" : 58,
+  "nivel" : 15,
+  "peso" : 76.76,
+  "ubicacion" : "ELOSTIRION",
+  "juego" : "A LINK TO THE PAST",
+  "espirituAnimal" : "CABALLO"
+}, {
+  "id" : "CRT-153",
+  "nombre" : "ROBBIE",
+  "apodo" : "STEVE",
+  "edad" : 22,
+  "nivel" : 37,
+  "peso" : 74.59,
+  "ubicacion" : "GAP OF ROHAN",
+  "juego" : "BREATH OF THE WILD",
+  "espirituAnimal" : "BUEY"
+}, {
+  "id" : "CRT-154",
+  "nombre" : "MAKAR",
+  "apodo" : "CYBERNETIC GHOST OF CHRISTMAS PAST FROM THE FUTURE",
+  "edad" : 57,
+  "nivel" : 68,
+  "peso" : 72.6,
+  "ubicacion" : "ISLE OF BALAR",
+  "juego" : "THE MINISH CAP",
+  "espirituAnimal" : "CONEJO"
+}, {
+  "id" : "CRT-155",
+  "nombre" : "SUE-BELLE",
+  "apodo" : "D.P",
+  "edad" : 44,
+  "nivel" : 56,
+  "peso" : 89.17,
+  "ubicacion" : "EAST BELERIAND",
+  "juego" : "A LINK TO THE PAST",
+  "espirituAnimal" : "CABALLO"
+}, {
+  "id" : "CRT-156",
+  "nombre" : "JEE NOH",
+  "apodo" : "CARL BRUTANANADILEWSKI",
+  "edad" : 69,
+  "nivel" : 23,
+  "peso" : 76.38,
+  "ubicacion" : "FENS OF SERECH",
+  "juego" : "THE WIND WAKER",
+  "espirituAnimal" : "BUEY"
+}, {
+  "id" : "CRT-157",
+  "nombre" : "YAH RIN",
+  "apodo" : "ERR",
+  "edad" : 53,
+  "nivel" : 61,
+  "peso" : 84.63,
+  "ubicacion" : "MAGLOR'S GAP",
+  "juego" : "LINK'S AWAKENING",
+  "espirituAnimal" : "RATA"
+}, {
+  "id" : "CRT-158",
+  "nombre" : "URBOSA",
+  "apodo" : "TURKATRON",
+  "edad" : 42,
+  "nivel" : 84,
+  "peso" : 93.3,
+  "ubicacion" : "LOSGAR",
+  "juego" : "A LINK TO THE PAST",
+  "espirituAnimal" : "CONEJO"
+}, {
+  "id" : "CRT-159",
+  "nombre" : "BLOSSOM",
+  "apodo" : "DR. WONGBURGER",
+  "edad" : 64,
+  "nivel" : 13,
+  "peso" : 95.6,
+  "ubicacion" : "ARGONATH",
+  "juego" : "MAJORA'S MASK",
+  "espirituAnimal" : "TIGRE"
+}, {
+  "id" : "CRT-160",
+  "nombre" : "ARYLL",
+  "apodo" : "IGNIGNOKT",
+  "edad" : 25,
+  "nivel" : 43,
+  "peso" : 74.59,
+  "ubicacion" : "CARCHOST",
+  "juego" : "THE MINISH CAP",
+  "espirituAnimal" : "BUEY"
+}, {
+  "id" : "CRT-161",
+  "nombre" : "ROSE",
+  "apodo" : "FRYLOCK",
+  "edad" : 40,
+  "nivel" : 29,
+  "peso" : 77.55,
+  "ubicacion" : "REGIONS OF THE SHIRE",
+  "juego" : "TWILIGHT PRINCESS",
+  "espirituAnimal" : "BUEY"
+}, {
+  "id" : "CRT-162",
+  "nombre" : "MAROT",
+  "apodo" : "DR. WEIRD",
+  "edad" : 66,
+  "nivel" : 61,
+  "peso" : 96.54,
+  "ubicacion" : "ISLE OF BALAR",
+  "juego" : "PHANTOM HOURGLASS",
+  "espirituAnimal" : "DRAGON"
+}, {
+  "id" : "CRT-163",
+  "nombre" : "PHOTOGRAPHER",
+  "apodo" : "STEVE",
+  "edad" : 23,
+  "nivel" : 90,
+  "peso" : 95.18,
+  "ubicacion" : "EÄ",
+  "juego" : "THE WIND WAKER",
+  "espirituAnimal" : "GALLO"
+}, {
+  "id" : "CRT-164",
+  "nombre" : "RICHARD",
+  "apodo" : "DR. WEIRD",
+  "edad" : 57,
+  "nivel" : 68,
+  "peso" : 91.53,
+  "ubicacion" : "PARTH GALEN",
+  "juego" : "LINK'S AWAKENING",
+  "espirituAnimal" : "BUEY"
+}, {
+  "id" : "CRT-165",
+  "nombre" : "ULRIRA",
+  "apodo" : "DR. WONGBURGER",
+  "edad" : 38,
+  "nivel" : 35,
+  "peso" : 79.21,
+  "ubicacion" : "EAST ROAD",
+  "juego" : "ZELDA II: ADVENTURE OF LINK",
+  "espirituAnimal" : "CABALLO"
+}, {
+  "id" : "CRT-166",
+  "nombre" : "MO'A KEET",
+  "apodo" : "DR. WONGBURGER",
+  "edad" : 62,
+  "nivel" : 2,
+  "peso" : 77.89,
+  "ubicacion" : "INN OF THE PRANCING PONY",
+  "juego" : "THE LEGEND OF ZELDA",
+  "espirituAnimal" : "SERPIENTE"
+}, {
+  "id" : "CRT-167",
+  "nombre" : "DARMANI III",
+  "apodo" : "CYBERNETIC GHOST OF CHRISTMAS PAST FROM THE FUTURE",
+  "edad" : 37,
+  "nivel" : 61,
+  "peso" : 92.14,
+  "ubicacion" : "DORIATH",
+  "juego" : "THE MINISH CAP",
+  "espirituAnimal" : "DRAGON"
+}, {
+  "id" : "CRT-168",
+  "nombre" : "CARPENTERS",
+  "apodo" : "DR. WONGBURGER",
+  "edad" : 24,
+  "nivel" : 72,
+  "peso" : 74.46,
+  "ubicacion" : "THE VOID",
+  "juego" : "LINK'S AWAKENING",
+  "espirituAnimal" : "BUEY"
+}, {
+  "id" : "CRT-169",
+  "nombre" : "TA'LOG NAEG",
+  "apodo" : "STEVE",
+  "edad" : 33,
+  "nivel" : 8,
+  "peso" : 89.69,
+  "ubicacion" : "ISLE OF BALAR",
+  "juego" : "THE LEGEND OF ZELDA",
+  "espirituAnimal" : "CONEJO"
+}, {
+  "id" : "CRT-170",
+  "nombre" : "POE SALESMAN",
+  "apodo" : "MASTER SHAKE",
+  "edad" : 22,
+  "nivel" : 53,
+  "peso" : 71.42,
+  "ubicacion" : "FORDS OF ISEN",
+  "juego" : "ORACLE OF SEASONS - ORACLE OF AGES",
+  "espirituAnimal" : "GALLO"
+}, {
+  "id" : "CRT-171",
+  "nombre" : "JITAN SA'MI",
+  "apodo" : "FRYLOCK",
+  "edad" : 47,
+  "nivel" : 78,
+  "peso" : 75.51,
+  "ubicacion" : "ELOSTIRION",
+  "juego" : "THE LEGEND OF ZELDA",
+  "espirituAnimal" : "GALLO"
+}, {
+  "id" : "CRT-172",
+  "nombre" : "TRAVELING MERCHANTS",
+  "apodo" : "TURKATRON",
+  "edad" : 40,
+  "nivel" : 51,
+  "peso" : 91.07,
+  "ubicacion" : "BAG END",
+  "juego" : "PHANTOM HOURGLASS",
+  "espirituAnimal" : "TIGRE"
+}, {
+  "id" : "CRT-173",
+  "nombre" : "MUTOH",
+  "apodo" : "GEORGE LOWE",
+  "edad" : 53,
+  "nivel" : 48,
+  "peso" : 84.73,
+  "ubicacion" : "DOORS OF DURIN",
+  "juego" : "THE LEGEND OF ZELDA",
+  "espirituAnimal" : "RATA"
+}, {
+  "id" : "CRT-174",
+  "nombre" : "MR. BARTEN",
+  "apodo" : "SKEETER",
+  "edad" : 22,
+  "nivel" : 37,
+  "peso" : 94.46,
+  "ubicacion" : "ENCHANTED ISLES",
+  "juego" : "ORACLE OF SEASONS - ORACLE OF AGES",
+  "espirituAnimal" : "SERPIENTE"
+}, {
+  "id" : "CRT-175",
+  "nombre" : "SOKRA",
+  "apodo" : "OGLETHORPE",
+  "edad" : 55,
+  "nivel" : 9,
+  "peso" : 92.61,
+  "ubicacion" : "THE VOID",
+  "juego" : "A LINK TO THE PAST",
+  "espirituAnimal" : "TIGRE"
+}, {
+  "id" : "CRT-176",
+  "nombre" : "WAHGO KATTA",
+  "apodo" : "SKEETER",
+  "edad" : 52,
+  "nivel" : 90,
+  "peso" : 87.49,
+  "ubicacion" : "CIRITH UNGOL",
+  "juego" : "ORACLE OF SEASONS - ORACLE OF AGES",
+  "espirituAnimal" : "SERPIENTE"
+}, {
+  "id" : "CRT-177",
+  "nombre" : "OWA DAIM",
+  "apodo" : "DR. WEIRD",
+  "edad" : 63,
+  "nivel" : 23,
+  "peso" : 92.43,
+  "ubicacion" : "FORDS OF ISEN",
+  "juego" : "THE LEGEND OF ZELDA",
+  "espirituAnimal" : "BUEY"
+}, {
+  "id" : "CRT-178",
+  "nombre" : "PADOK",
+  "apodo" : "SKEETER",
+  "edad" : 52,
+  "nivel" : 55,
+  "peso" : 95.88,
+  "ubicacion" : "BRIDGE OF KHAZAD-DÛM",
+  "juego" : "ZELDA II: ADVENTURE OF LINK",
+  "espirituAnimal" : "CABALLO"
+}, {
+  "id" : "CRT-179",
+  "nombre" : "CHRISTINE",
+  "apodo" : "ERR",
+  "edad" : 66,
+  "nivel" : 60,
+  "peso" : 90.27,
+  "ubicacion" : "CIRITH UNGOL",
+  "juego" : "PHANTOM HOURGLASS",
+  "espirituAnimal" : "DRAGON"
+}, {
+  "id" : "CRT-180",
+  "nombre" : "INGO",
+  "apodo" : "DR. WONGBURGER",
+  "edad" : 65,
+  "nivel" : 64,
+  "peso" : 83.54,
+  "ubicacion" : "TOL BRANDIR",
+  "juego" : "TWILIGHT PRINCESS",
+  "espirituAnimal" : "SERPIENTE"
+}, {
+  "id" : "CRT-181",
+  "nombre" : "ALDER",
+  "apodo" : "CYBERNETIC GHOST OF CHRISTMAS PAST FROM THE FUTURE",
+  "edad" : 53,
+  "nivel" : 24,
+  "peso" : 81.08,
+  "ubicacion" : "EITHEL SIRION",
+  "juego" : "A LINK TO THE PAST",
+  "espirituAnimal" : "DRAGON"
+}, {
+  "id" : "CRT-182",
+  "nombre" : "MAPLE",
+  "apodo" : "DR. WEIRD",
+  "edad" : 35,
+  "nivel" : 75,
+  "peso" : 74.42,
+  "ubicacion" : "TOL-IN-GAURHOTH",
+  "juego" : "PHANTOM HOURGLASS",
+  "espirituAnimal" : "SERPIENTE"
+}, {
+  "id" : "CRT-183",
+  "nombre" : "KAYO",
+  "apodo" : "DR. WEIRD",
+  "edad" : 67,
+  "nivel" : 46,
+  "peso" : 76.86,
+  "ubicacion" : "PARTH GALEN",
+  "juego" : "A LINK TO THE PAST",
+  "espirituAnimal" : "TIGRE"
+}, {
+  "id" : "CRT-184",
+  "nombre" : "DARUNIA",
+  "apodo" : "MC PEE PANTS",
+  "edad" : 30,
+  "nivel" : 43,
+  "peso" : 84.95,
+  "ubicacion" : "BLACK GATE",
+  "juego" : "TWILIGHT PRINCESS",
+  "espirituAnimal" : "PERRO"
+}, {
+  "id" : "CRT-185",
+  "nombre" : "KOMALI",
+  "apodo" : "MASTER SHAKE",
+  "edad" : 39,
+  "nivel" : 65,
+  "peso" : 91.58,
+  "ubicacion" : "VAIYA",
+  "juego" : "ORACLE OF SEASONS - ORACLE OF AGES",
+  "espirituAnimal" : "CONEJO"
+}, {
+  "id" : "CRT-186",
+  "nombre" : "VISCEN",
+  "apodo" : "CARL BRUTANANADILEWSKI",
+  "edad" : 35,
+  "nivel" : 87,
+  "peso" : 96.78,
+  "ubicacion" : "MEDUSELD",
+  "juego" : "TWILIGHT PRINCESS",
+  "espirituAnimal" : "CABALLO"
+}, {
+  "id" : "CRT-187",
+  "nombre" : "VASU",
+  "apodo" : "ERR",
+  "edad" : 52,
+  "nivel" : 4,
+  "peso" : 74.84,
+  "ubicacion" : "OLD FOREST",
+  "juego" : "THE MINISH CAP",
+  "espirituAnimal" : "CABRA"
+}, {
+  "id" : "CRT-188",
+  "nombre" : "BARTA",
+  "apodo" : "DR. WONGBURGER",
+  "edad" : 61,
+  "nivel" : 51,
+  "peso" : 72.92,
+  "ubicacion" : "UTUMNO",
+  "juego" : "PHANTOM HOURGLASS",
+  "espirituAnimal" : "RATA"
+}, {
+  "id" : "CRT-189",
+  "nombre" : "OLD WOMAN",
+  "apodo" : "CARL BRUTANANADILEWSKI",
+  "edad" : 25,
+  "nivel" : 21,
+  "peso" : 73.79,
+  "ubicacion" : "REGIONS OF THE SHIRE",
+  "juego" : "A LINK TO THE PAST",
+  "espirituAnimal" : "BUEY"
+}, {
+  "id" : "CRT-190",
+  "nombre" : "MADAM AROMA",
+  "apodo" : "MASTER SHAKE",
+  "edad" : 38,
+  "nivel" : 72,
+  "peso" : 94.23,
+  "ubicacion" : "EÄ",
+  "juego" : "PHANTOM HOURGLASS",
+  "espirituAnimal" : "TIGRE"
+}, {
+  "id" : "CRT-191",
+  "nombre" : "GARADON",
+  "apodo" : "MC PEE PANTS",
+  "edad" : 53,
+  "nivel" : 23,
+  "peso" : 90.94,
+  "ubicacion" : "THE RIVERS AND BEACON-HILLS OF GONDOR",
+  "juego" : "THE MINISH CAP",
+  "espirituAnimal" : "CONEJO"
+}, {
+  "id" : "CRT-192",
+  "nombre" : "ROBBIE",
+  "apodo" : "STEVE",
+  "edad" : 58,
+  "nivel" : 84,
+  "peso" : 87.37,
+  "ubicacion" : "TOL MORWEN",
+  "juego" : "PHANTOM HOURGLASS",
+  "espirituAnimal" : "CABRA"
+}, {
+  "id" : "CRT-193",
+  "nombre" : "DARMANI III",
+  "apodo" : "IGNIGNOKT",
+  "edad" : 60,
+  "nivel" : 43,
+  "peso" : 76.43,
+  "ubicacion" : "EAST BELERIAND",
+  "juego" : "PHANTOM HOURGLASS",
+  "espirituAnimal" : "PERRO"
+}, {
+  "id" : "CRT-194",
+  "nombre" : "OOCCOO",
+  "apodo" : "D.P",
+  "edad" : 68,
+  "nivel" : 58,
+  "peso" : 74.15,
+  "ubicacion" : "LUTHANY",
+  "juego" : "LINK'S AWAKENING",
+  "espirituAnimal" : "CABRA"
+}, {
+  "id" : "CRT-195",
+  "nombre" : "KASS",
+  "apodo" : "MC PEE PANTS",
+  "edad" : 44,
+  "nivel" : 37,
+  "peso" : 80.54,
+  "ubicacion" : "GORGOROTH",
+  "juego" : "BREATH OF THE WILD",
+  "espirituAnimal" : "CABALLO"
+}, {
+  "id" : "CRT-196",
+  "nombre" : "PHOTOGRAPHER",
+  "apodo" : "MEATWAD",
+  "edad" : 37,
+  "nivel" : 3,
+  "peso" : 87.84,
+  "ubicacion" : "MÁHANAXAR",
+  "juego" : "BREATH OF THE WILD",
+  "espirituAnimal" : "TIGRE"
+}, {
+  "id" : "CRT-197",
+  "nombre" : "TATL",
+  "apodo" : "SKEETER",
+  "edad" : 65,
+  "nivel" : 71,
+  "peso" : 93.99,
+  "ubicacion" : "UTUMNO",
+  "juego" : "BREATH OF THE WILD",
+  "espirituAnimal" : "DRAGON"
+}, {
+  "id" : "CRT-198",
+  "nombre" : "KING ZORA",
+  "apodo" : "MASTER SHAKE",
+  "edad" : 66,
+  "nivel" : 90,
+  "peso" : 85.58,
+  "ubicacion" : "PATHS OF THE DEAD",
+  "juego" : "THE MINISH CAP",
+  "espirituAnimal" : "CERDO"
+}, {
+  "id" : "CRT-199",
+  "nombre" : "TURTLE",
+  "apodo" : "MEATWAD",
+  "edad" : 49,
+  "nivel" : 68,
+  "peso" : 81.14,
+  "ubicacion" : "DOME OF STARS",
+  "juego" : "A LINK TO THE PAST",
+  "espirituAnimal" : "BUEY"
+}, {
+  "id" : "CRT-200",
+  "nombre" : "TAHNO O'AH",
+  "apodo" : "ERR",
+  "edad" : 42,
+  "nivel" : 7,
+  "peso" : 93.28,
+  "ubicacion" : "BARAD-DÛR",
+  "juego" : "LINK'S AWAKENING",
+  "espirituAnimal" : "DRAGON"
+}, {
+  "id" : "CRT-201",
+  "nombre" : "YETO",
+  "apodo" : "IGNIGNOKT",
+  "edad" : 27,
+  "nivel" : 69,
+  "peso" : 85.89,
+  "ubicacion" : "BAG END",
+  "juego" : "FOUR SWORDS",
+  "espirituAnimal" : "CABALLO"
+}, {
+  "id" : "CRT-202",
+  "nombre" : "GROG",
+  "apodo" : "GEORGE LOWE",
+  "edad" : 44,
+  "nivel" : 33,
+  "peso" : 85.09,
+  "ubicacion" : "NÚATH",
+  "juego" : "A LINK TO THE PAST",
+  "espirituAnimal" : "PERRO"
+}, {
+  "id" : "CRT-203",
+  "nombre" : "BOSH KALA",
+  "apodo" : "CYBERNETIC GHOST OF CHRISTMAS PAST FROM THE FUTURE",
+  "edad" : 68,
+  "nivel" : 89,
+  "peso" : 78.0,
+  "ubicacion" : "GAP OF ROHAN",
+  "juego" : "FOUR SWORDS",
+  "espirituAnimal" : "CABRA"
+}, {
+  "id" : "CRT-204",
+  "nombre" : "MYAHM AGANA",
+  "apodo" : "IGNIGNOKT",
+  "edad" : 30,
+  "nivel" : 85,
+  "peso" : 84.52,
+  "ubicacion" : "UTUMNO",
+  "juego" : "THE MINISH CAP",
+  "espirituAnimal" : "BUEY"
+}, {
+  "id" : "CRT-205",
+  "nombre" : "DIMITRI",
+  "apodo" : "CYBERNETIC GHOST OF CHRISTMAS PAST FROM THE FUTURE",
+  "edad" : 52,
+  "nivel" : 16,
+  "peso" : 87.65,
+  "ubicacion" : "DOME OF STARS",
+  "juego" : "ORACLE OF SEASONS - ORACLE OF AGES",
+  "espirituAnimal" : "SERPIENTE"
+}, {
+  "id" : "CRT-206",
+  "nombre" : "MUWO JEEM",
+  "apodo" : "TURKATRON",
+  "edad" : 63,
+  "nivel" : 47,
+  "peso" : 80.04,
+  "ubicacion" : "BARAD-DÛR",
+  "juego" : "BREATH OF THE WILD",
+  "espirituAnimal" : "CABRA"
+}, {
+  "id" : "CRT-207",
+  "nombre" : "TRISSA",
+  "apodo" : "CYBERNETIC GHOST OF CHRISTMAS PAST FROM THE FUTURE",
+  "edad" : 55,
+  "nivel" : 46,
+  "peso" : 80.89,
+  "ubicacion" : "ISLE OF BALAR",
+  "juego" : "FOUR SWORDS",
+  "espirituAnimal" : "SERPIENTE"
+}, {
+  "id" : "CRT-208",
+  "nombre" : "MAKAR",
+  "apodo" : "FRYLOCK",
+  "edad" : 56,
+  "nivel" : 15,
+  "peso" : 85.9,
+  "ubicacion" : "LOSGAR",
+  "juego" : "A LINK TO THE PAST",
+  "espirituAnimal" : "PERRO"
+}, {
+  "id" : "CRT-209",
+  "nombre" : "TELLER OF TREASURES",
+  "apodo" : "IGNIGNOKT",
+  "edad" : 46,
+  "nivel" : 77,
+  "peso" : 94.03,
+  "ubicacion" : "GREENWAY",
+  "juego" : "LINK'S AWAKENING",
+  "espirituAnimal" : "BUEY"
+}, {
+  "id" : "CRT-210",
+  "nombre" : "BOW-WOW",
+  "apodo" : "FRYLOCK",
+  "edad" : 49,
+  "nivel" : 35,
+  "peso" : 89.98,
+  "ubicacion" : "PARTH GALEN",
+  "juego" : "MAJORA'S MASK",
+  "espirituAnimal" : "BUEY"
+}, {
+  "id" : "CRT-211",
+  "nombre" : "DAMPE",
+  "apodo" : "ERR",
+  "edad" : 24,
+  "nivel" : 85,
+  "peso" : 92.72,
+  "ubicacion" : "DARK LAND",
+  "juego" : "FOUR SWORDS",
+  "espirituAnimal" : "CABALLO"
+}, {
+  "id" : "CRT-212",
+  "nombre" : "HYLIA",
+  "apodo" : "EMORY",
+  "edad" : 66,
+  "nivel" : 73,
+  "peso" : 87.93,
+  "ubicacion" : "VAIYA",
+  "juego" : "PHANTOM HOURGLASS",
+  "espirituAnimal" : "PERRO"
+}, {
+  "id" : "CRT-213",
+  "nombre" : "MESA",
+  "apodo" : "TURKATRON",
+  "edad" : 49,
+  "nivel" : 48,
+  "peso" : 80.21,
+  "ubicacion" : "CARCHOST",
+  "juego" : "ZELDA II: ADVENTURE OF LINK",
+  "espirituAnimal" : "GALLO"
+}, {
+  "id" : "CRT-214",
+  "nombre" : "PERCY",
+  "apodo" : "IGNIGNOKT",
+  "edad" : 44,
+  "nivel" : 72,
+  "peso" : 92.85,
+  "ubicacion" : "LUTHANY",
+  "juego" : "MAJORA'S MASK",
+  "espirituAnimal" : "CONEJO"
+}, {
+  "id" : "CRT-215",
+  "nombre" : "TAEL",
+  "apodo" : "MEATWAD",
+  "edad" : 45,
+  "nivel" : 2,
+  "peso" : 79.37,
+  "ubicacion" : "ANDUSTAR",
+  "juego" : "BREATH OF THE WILD",
+  "espirituAnimal" : "PERRO"
+}, {
+  "id" : "CRT-216",
+  "nombre" : "YAH RIN",
+  "apodo" : "DR. WEIRD",
+  "edad" : 29,
+  "nivel" : 55,
+  "peso" : 76.62,
+  "ubicacion" : "RATH DÍNEN",
+  "juego" : "A LINK TO THE PAST",
+  "espirituAnimal" : "SERPIENTE"
+}, {
+  "id" : "CRT-217",
+  "nombre" : "ROSE",
+  "apodo" : "OGLETHORPE",
+  "edad" : 57,
+  "nivel" : 24,
+  "peso" : 84.82,
+  "ubicacion" : "WARNING BEACONS OF GONDOR",
+  "juego" : "OCARINA OF TIME",
+  "espirituAnimal" : "CERDO"
+}, {
+  "id" : "CRT-218",
+  "nombre" : "ROSA SISTERS",
+  "apodo" : "EMORY",
+  "edad" : 46,
+  "nivel" : 69,
+  "peso" : 74.31,
+  "ubicacion" : "BLACK GATE",
+  "juego" : "THE LEGEND OF ZELDA",
+  "espirituAnimal" : "GALLO"
+}, {
+  "id" : "CRT-219",
+  "nombre" : "MELLIE",
+  "apodo" : "MASTER SHAKE",
+  "edad" : 36,
+  "nivel" : 24,
+  "peso" : 73.19,
+  "ubicacion" : "CRACK OF DOOM",
+  "juego" : "PHANTOM HOURGLASS",
+  "espirituAnimal" : "DRAGON"
+}, {
+  "id" : "CRT-220",
+  "nombre" : "SMITH",
+  "apodo" : "MEATWAD",
+  "edad" : 24,
+  "nivel" : 56,
+  "peso" : 97.24,
+  "ubicacion" : "ARGONATH",
+  "juego" : "MAJORA'S MASK",
+  "espirituAnimal" : "DRAGON"
+}, {
+  "id" : "CRT-221",
+  "nombre" : "BOSH KALA",
+  "apodo" : "IGNIGNOKT",
+  "edad" : 26,
+  "nivel" : 46,
+  "peso" : 88.14,
+  "ubicacion" : "DOORS OF DURIN",
+  "juego" : "THE WIND WAKER",
+  "espirituAnimal" : "RATA"
+}, {
+  "id" : "CRT-222",
+  "nombre" : "PRINCE RALIS",
+  "apodo" : "STEVE",
+  "edad" : 69,
+  "nivel" : 77,
+  "peso" : 86.59,
+  "ubicacion" : "EAST ROAD",
+  "juego" : "BREATH OF THE WILD",
+  "espirituAnimal" : "PERRO"
+}, {
+  "id" : "CRT-223",
+  "nombre" : "SHARP",
+  "apodo" : "D.P",
+  "edad" : 20,
+  "nivel" : 89,
+  "peso" : 73.25,
+  "ubicacion" : "MAGLOR'S GAP",
+  "juego" : "LINK'S AWAKENING",
+  "espirituAnimal" : "RATA"
+}, {
+  "id" : "CRT-224",
+  "nombre" : "TURTLE",
+  "apodo" : "STEVE",
+  "edad" : 35,
+  "nivel" : 16,
+  "peso" : 94.9,
+  "ubicacion" : "ANDUSTAR",
+  "juego" : "A LINK TO THE PAST",
+  "espirituAnimal" : "SERPIENTE"
+}, {
+  "id" : "CRT-225",
+  "nombre" : "ZALTA WA",
+  "apodo" : "OGLETHORPE",
+  "edad" : 34,
+  "nivel" : 22,
+  "peso" : 72.26,
+  "ubicacion" : "MEDUSELD",
+  "juego" : "THE MINISH CAP",
+  "espirituAnimal" : "CABALLO"
+}, {
+  "id" : "CRT-226",
+  "nombre" : "TEBA",
+  "apodo" : "MC PEE PANTS",
+  "edad" : 59,
+  "nivel" : 24,
+  "peso" : 87.69,
+  "ubicacion" : "EAST ROAD",
+  "juego" : "BREATH OF THE WILD",
+  "espirituAnimal" : "CABALLO"
+}, {
+  "id" : "CRT-227",
+  "nombre" : "MR. WRITE",
+  "apodo" : "MC PEE PANTS",
+  "edad" : 22,
+  "nivel" : 57,
+  "peso" : 85.72,
+  "ubicacion" : "DOORS OF DURIN",
+  "juego" : "ZELDA II: ADVENTURE OF LINK",
+  "espirituAnimal" : "PERRO"
+}, {
+  "id" : "CRT-228",
+  "nombre" : "OLKIN",
+  "apodo" : "SKEETER",
+  "edad" : 49,
+  "nivel" : 45,
+  "peso" : 70.49,
+  "ubicacion" : "MÁHANAXAR",
+  "juego" : "THE LEGEND OF ZELDA",
+  "espirituAnimal" : "CABALLO"
+}, {
+  "id" : "CRT-229",
+  "nombre" : "LINEBECK",
+  "apodo" : "MASTER SHAKE",
+  "edad" : 67,
+  "nivel" : 20,
+  "peso" : 81.29,
+  "ubicacion" : "ISENGARD",
+  "juego" : "PHANTOM HOURGLASS",
+  "espirituAnimal" : "BUEY"
+}, {
+  "id" : "CRT-230",
+  "nombre" : "GARADON",
+  "apodo" : "DR. WONGBURGER",
+  "edad" : 65,
+  "nivel" : 8,
+  "peso" : 77.79,
+  "ubicacion" : "PARTH GALEN",
+  "juego" : "TWILIGHT PRINCESS",
+  "espirituAnimal" : "DRAGON"
+}, {
+  "id" : "CRT-231",
+  "nombre" : "FARORE",
+  "apodo" : "CARL BRUTANANADILEWSKI",
+  "edad" : 29,
+  "nivel" : 77,
+  "peso" : 79.49,
+  "ubicacion" : "EAST ROAD",
+  "juego" : "OCARINA OF TIME",
+  "espirituAnimal" : "CABALLO"
+}, {
+  "id" : "CRT-232",
+  "nombre" : "SORELIA",
+  "apodo" : "IGNIGNOKT",
+  "edad" : 53,
+  "nivel" : 80,
+  "peso" : 72.61,
+  "ubicacion" : "BLACK GATE",
+  "juego" : "THE WIND WAKER",
+  "espirituAnimal" : "GALLO"
+}, {
+  "id" : "CRT-233",
+  "nombre" : "KA'O MUAKAGH",
+  "apodo" : "FRYLOCK",
+  "edad" : 62,
+  "nivel" : 54,
+  "peso" : 90.6,
+  "ubicacion" : "ENCHANTED ISLES",
+  "juego" : "OCARINA OF TIME",
+  "espirituAnimal" : "GALLO"
+}, {
+  "id" : "CRT-234",
+  "nombre" : "OLD WOMAN",
+  "apodo" : "DR. WONGBURGER",
+  "edad" : 54,
+  "nivel" : 45,
+  "peso" : 71.02,
+  "ubicacion" : "FIELD OF CELEBRANT",
+  "juego" : "THE WIND WAKER",
+  "espirituAnimal" : "CONEJO"
+}, {
+  "id" : "CRT-235",
+  "nombre" : "HETSU",
+  "apodo" : "OGLETHORPE",
+  "edad" : 49,
+  "nivel" : 42,
+  "peso" : 77.49,
+  "ubicacion" : "HAUDH-EN-NIRNAETH",
+  "juego" : "ZELDA II: ADVENTURE OF LINK",
+  "espirituAnimal" : "SERPIENTE"
+}, {
+  "id" : "CRT-236",
+  "nombre" : "IMPA",
+  "apodo" : "GEORGE LOWE",
+  "edad" : 46,
+  "nivel" : 54,
+  "peso" : 89.98,
+  "ubicacion" : "GLADDEN FIELDS",
+  "juego" : "LINK'S AWAKENING",
+  "espirituAnimal" : "CABALLO"
+}, {
+  "id" : "CRT-237",
+  "nombre" : "MAMAMU YAN",
+  "apodo" : "EMORY",
+  "edad" : 39,
+  "nivel" : 53,
+  "peso" : 75.59,
+  "ubicacion" : "DARK LAND",
+  "juego" : "THE MINISH CAP",
+  "espirituAnimal" : "SERPIENTE"
+}, {
+  "id" : "CRT-238",
+  "nombre" : "YIGA CLAN",
+  "apodo" : "STEVE",
+  "edad" : 20,
+  "nivel" : 16,
+  "peso" : 88.03,
+  "ubicacion" : "BLACK GATE",
+  "juego" : "LINK'S AWAKENING",
+  "espirituAnimal" : "RATA"
+}, {
+  "id" : "CRT-239",
+  "nombre" : "PRINCE SIDON",
+  "apodo" : "CARL BRUTANANADILEWSKI",
+  "edad" : 53,
+  "nivel" : 20,
+  "peso" : 79.21,
+  "ubicacion" : "RIVENDELL",
+  "juego" : "ORACLE OF SEASONS - ORACLE OF AGES",
+  "espirituAnimal" : "PERRO"
+}, {
+  "id" : "CRT-240",
+  "nombre" : "MARTHA",
+  "apodo" : "GEORGE LOWE",
+  "edad" : 34,
+  "nivel" : 52,
+  "peso" : 85.64,
+  "ubicacion" : "RATH DÍNEN",
+  "juego" : "TWILIGHT PRINCESS",
+  "espirituAnimal" : "GALLO"
+}, {
+  "id" : "CRT-241",
+  "nombre" : "RIK",
+  "apodo" : "MASTER SHAKE",
+  "edad" : 42,
+  "nivel" : 3,
+  "peso" : 86.15,
+  "ubicacion" : "EAST BELERIAND",
+  "juego" : "BREATH OF THE WILD",
+  "espirituAnimal" : "SERPIENTE"
+}, {
+  "id" : "CRT-242",
+  "nombre" : "MELARI",
+  "apodo" : "GEORGE LOWE",
+  "edad" : 44,
+  "nivel" : 55,
+  "peso" : 77.27,
+  "ubicacion" : "TOL-IN-GAURHOTH",
+  "juego" : "LINK'S AWAKENING",
+  "espirituAnimal" : "CONEJO"
+}, {
+  "id" : "CRT-243",
+  "nombre" : "DENTO",
+  "apodo" : "IGNIGNOKT",
+  "edad" : 47,
+  "nivel" : 62,
+  "peso" : 70.45,
+  "ubicacion" : "HOUSES OF HEALING",
+  "juego" : "OCARINA OF TIME",
+  "espirituAnimal" : "GALLO"
+}, {
+  "id" : "CRT-244",
+  "nombre" : "KALM YU'OGH",
+  "apodo" : "MASTER SHAKE",
+  "edad" : 44,
+  "nivel" : 12,
+  "peso" : 80.98,
+  "ubicacion" : "VAIYA",
+  "juego" : "PHANTOM HOURGLASS",
+  "espirituAnimal" : "DRAGON"
+}, {
+  "id" : "CRT-245",
+  "nombre" : "OMAN AU",
+  "apodo" : "D.P",
+  "edad" : 23,
+  "nivel" : 75,
+  "peso" : 79.34,
+  "ubicacion" : "HAVEN OF THE ELDAR",
+  "juego" : "THE MINISH CAP",
+  "espirituAnimal" : "CABRA"
+}, {
+  "id" : "CRT-246",
+  "nombre" : "MO'A KEET",
+  "apodo" : "DR. WEIRD",
+  "edad" : 64,
+  "nivel" : 50,
+  "peso" : 73.64,
+  "ubicacion" : "DOME OF STARS",
+  "juego" : "LINK'S AWAKENING",
+  "espirituAnimal" : "TIGRE"
+}, {
+  "id" : "CRT-247",
+  "nombre" : "YUNOBO",
+  "apodo" : "EMORY",
+  "edad" : 62,
+  "nivel" : 77,
+  "peso" : 81.63,
+  "ubicacion" : "DOORS OF DURIN",
+  "juego" : "BREATH OF THE WILD",
+  "espirituAnimal" : "CABALLO"
+}, {
+  "id" : "CRT-248",
+  "nombre" : "FORTUNE TELLER",
+  "apodo" : "EMORY",
+  "edad" : 30,
+  "nivel" : 11,
+  "peso" : 95.54,
+  "ubicacion" : "ANGBAND",
+  "juego" : "A LINK TO THE PAST",
+  "espirituAnimal" : "CABRA"
+}, {
+  "id" : "CRT-249",
+  "nombre" : "GORON ELDER",
+  "apodo" : "DR. WEIRD",
+  "edad" : 43,
+  "nivel" : 35,
+  "peso" : 80.37,
+  "ubicacion" : "TOL GALEN",
+  "juego" : "PHANTOM HOURGLASS",
+  "espirituAnimal" : "TIGRE"
+}, {
+  "id" : "CRT-250",
+  "nombre" : "OLD MEN",
+  "apodo" : "GEORGE LOWE",
+  "edad" : 35,
+  "nivel" : 6,
+  "peso" : 72.38,
+  "ubicacion" : "COLDFELLS",
+  "juego" : "THE MINISH CAP",
+  "espirituAnimal" : "SERPIENTE"
+}, {
+  "id" : "CRT-251",
+  "nombre" : "ZELDA",
+  "apodo" : "D.P",
+  "edad" : 28,
+  "nivel" : 87,
+  "peso" : 93.14,
+  "ubicacion" : "BLACK GATE",
+  "juego" : "BREATH OF THE WILD",
+  "espirituAnimal" : "CONEJO"
+}, {
+  "id" : "CRT-252",
+  "nombre" : "CARPENTERS",
+  "apodo" : "MC PEE PANTS",
+  "edad" : 47,
+  "nivel" : 22,
+  "peso" : 72.62,
+  "ubicacion" : "BAG END",
+  "juego" : "MAJORA'S MASK",
+  "espirituAnimal" : "CABALLO"
+}, {
+  "id" : "CRT-253",
+  "nombre" : "POE SALESMAN",
+  "apodo" : "IGNIGNOKT",
+  "edad" : 54,
+  "nivel" : 28,
+  "peso" : 93.17,
+  "ubicacion" : "UTUMNO",
+  "juego" : "FOUR SWORDS",
+  "espirituAnimal" : "CABRA"
+}, {
+  "id" : "CRT-254",
+  "nombre" : "MESA",
+  "apodo" : "MASTER SHAKE",
+  "edad" : 57,
+  "nivel" : 73,
+  "peso" : 72.23,
+  "ubicacion" : "FIELD OF CELEBRANT",
+  "juego" : "ZELDA II: ADVENTURE OF LINK",
+  "espirituAnimal" : "CABRA"
+}, {
+  "id" : "CRT-255",
+  "nombre" : "DAKA TUSS",
+  "apodo" : "MEATWAD",
+  "edad" : 59,
+  "nivel" : 73,
+  "peso" : 86.07,
+  "ubicacion" : "LUTHANY",
+  "juego" : "PHANTOM HOURGLASS",
+  "espirituAnimal" : "SERPIENTE"
+}, {
+  "id" : "CRT-256",
+  "nombre" : "YUNOBO",
+  "apodo" : "FRYLOCK",
+  "edad" : 38,
+  "nivel" : 55,
+  "peso" : 70.24,
+  "ubicacion" : "AGLAROND",
+  "juego" : "ORACLE OF SEASONS - ORACLE OF AGES",
+  "espirituAnimal" : "CABALLO"
+}, {
+  "id" : "CRT-257",
+  "nombre" : "FISHERMEN",
+  "apodo" : "CARL BRUTANANADILEWSKI",
+  "edad" : 35,
+  "nivel" : 13,
+  "peso" : 81.3,
+  "ubicacion" : "GREENWAY",
+  "juego" : "ZELDA II: ADVENTURE OF LINK",
+  "espirituAnimal" : "CONEJO"
+}, {
+  "id" : "CRT-258",
+  "nombre" : "NE'EZ YOHMA",
+  "apodo" : "GEORGE LOWE",
+  "edad" : 22,
+  "nivel" : 61,
+  "peso" : 96.79,
+  "ubicacion" : "RIVENDELL",
+  "juego" : "LINK'S AWAKENING",
+  "espirituAnimal" : "CONEJO"
+}, {
+  "id" : "CRT-259",
+  "nombre" : "BOSH KALA",
+  "apodo" : "DR. WONGBURGER",
+  "edad" : 21,
+  "nivel" : 25,
+  "peso" : 94.23,
+  "ubicacion" : "HOUSES OF HEALING",
+  "juego" : "THE WIND WAKER",
+  "espirituAnimal" : "RATA"
+}, {
+  "id" : "CRT-260",
+  "nombre" : "KUHN SIDAJJ",
+  "apodo" : "SKEETER",
+  "edad" : 68,
+  "nivel" : 51,
+  "peso" : 83.44,
+  "ubicacion" : "TOL-IN-GAURHOTH",
+  "juego" : "PHANTOM HOURGLASS",
+  "espirituAnimal" : "CABALLO"
+}, {
+  "id" : "CRT-261",
+  "nombre" : "LIBRARI",
+  "apodo" : "CYBERNETIC GHOST OF CHRISTMAS PAST FROM THE FUTURE",
+  "edad" : 34,
+  "nivel" : 34,
+  "peso" : 73.21,
+  "ubicacion" : "TOL GALEN",
+  "juego" : "PHANTOM HOURGLASS",
+  "espirituAnimal" : "PERRO"
+}, {
+  "id" : "CRT-262",
+  "nombre" : "HINO",
+  "apodo" : "GEORGE LOWE",
+  "edad" : 45,
+  "nivel" : 8,
+  "peso" : 86.95,
+  "ubicacion" : "COLDFELLS",
+  "juego" : "TWILIGHT PRINCESS",
+  "espirituAnimal" : "PERRO"
+}, {
+  "id" : "CRT-263",
+  "nombre" : "DAQA KOTH",
+  "apodo" : "IGNIGNOKT",
+  "edad" : 57,
+  "nivel" : 90,
+  "peso" : 76.46,
+  "ubicacion" : "LUTHANY",
+  "juego" : "BREATH OF THE WILD",
+  "espirituAnimal" : "DRAGON"
+}, {
+  "id" : "CRT-264",
+  "nombre" : "TALO",
+  "apodo" : "FRYLOCK",
+  "edad" : 58,
+  "nivel" : 53,
+  "peso" : 81.48,
+  "ubicacion" : "ELOSTIRION",
+  "juego" : "THE LEGEND OF ZELDA",
+  "espirituAnimal" : "DRAGON"
+}, {
+  "id" : "CRT-265",
+  "nombre" : "HAPPY MASK SALESMAN",
+  "apodo" : "CYBERNETIC GHOST OF CHRISTMAS PAST FROM THE FUTURE",
+  "edad" : 37,
+  "nivel" : 6,
+  "peso" : 96.4,
+  "ubicacion" : "EASTFARTHING",
+  "juego" : "PHANTOM HOURGLASS",
+  "espirituAnimal" : "BUEY"
+}, {
+  "id" : "CRT-266",
+  "nombre" : "SARIA",
+  "apodo" : "DR. WONGBURGER",
+  "edad" : 69,
+  "nivel" : 80,
+  "peso" : 83.9,
+  "ubicacion" : "HAUDH-EN-NIRNAETH",
+  "juego" : "OCARINA OF TIME",
+  "espirituAnimal" : "BUEY"
+}, {
+  "id" : "CRT-267",
+  "nombre" : "JOUTE",
+  "apodo" : "DR. WEIRD",
+  "edad" : 38,
+  "nivel" : 33,
+  "peso" : 87.03,
+  "ubicacion" : "CARCHOST",
+  "juego" : "THE MINISH CAP",
+  "espirituAnimal" : "RATA"
+}, {
+  "id" : "CRT-268",
+  "nombre" : "KAFEI",
+  "apodo" : "MC PEE PANTS",
+  "edad" : 21,
+  "nivel" : 41,
+  "peso" : 88.88,
+  "ubicacion" : "NARCHOST",
+  "juego" : "OCARINA OF TIME",
+  "espirituAnimal" : "CABRA"
+}, {
+  "id" : "CRT-269",
+  "nombre" : "QUEEN AMBI",
+  "apodo" : "MC PEE PANTS",
+  "edad" : 49,
+  "nivel" : 32,
+  "peso" : 90.22,
+  "ubicacion" : "MEDUSELD",
+  "juego" : "THE LEGEND OF ZELDA",
+  "espirituAnimal" : "SERPIENTE"
+}, {
+  "id" : "CRT-270",
+  "nombre" : "DAH KASO",
+  "apodo" : "D.P",
+  "edad" : 32,
+  "nivel" : 81,
+  "peso" : 94.45,
+  "ubicacion" : "OLD FORD",
+  "juego" : "OCARINA OF TIME",
+  "espirituAnimal" : "PERRO"
+}, {
+  "id" : "CRT-271",
+  "nombre" : "MRS. RUUL",
+  "apodo" : "EMORY",
+  "edad" : 29,
+  "nivel" : 50,
+  "peso" : 89.17,
+  "ubicacion" : "HELM'S DEEP",
+  "juego" : "THE MINISH CAP",
+  "espirituAnimal" : "CONEJO"
+}, {
+  "id" : "CRT-272",
+  "nombre" : "RAURU",
+  "apodo" : "TURKATRON",
+  "edad" : 50,
+  "nivel" : 79,
+  "peso" : 91.13,
+  "ubicacion" : "FENS OF SERECH",
+  "juego" : "TWILIGHT PRINCESS",
+  "espirituAnimal" : "PERRO"
+}, {
+  "id" : "CRT-273",
+  "nombre" : "KOHGA",
+  "apodo" : "MEATWAD",
+  "edad" : 52,
+  "nivel" : 40,
+  "peso" : 85.38,
+  "ubicacion" : "HOBBIT-HOLE",
+  "juego" : "BREATH OF THE WILD",
+  "espirituAnimal" : "TIGRE"
+}, {
+  "id" : "CRT-274",
+  "nombre" : "ABE",
+  "apodo" : "GEORGE LOWE",
+  "edad" : 21,
+  "nivel" : 68,
+  "peso" : 82.9,
+  "ubicacion" : "THE FORSAKEN INN",
+  "juego" : "ORACLE OF SEASONS - ORACLE OF AGES",
+  "espirituAnimal" : "CONEJO"
+}, {
+  "id" : "CRT-275",
+  "nombre" : "GRANDMA ULRIRA",
+  "apodo" : "DR. WONGBURGER",
+  "edad" : 28,
+  "nivel" : 68,
+  "peso" : 83.97,
+  "ubicacion" : "FORDS OF ISEN",
+  "juego" : "BREATH OF THE WILD",
+  "espirituAnimal" : "CABRA"
+}, {
+  "id" : "CRT-276",
+  "nombre" : "PLEN",
+  "apodo" : "SKEETER",
+  "edad" : 60,
+  "nivel" : 89,
+  "peso" : 73.61,
+  "ubicacion" : "MINHIRIATH",
+  "juego" : "PHANTOM HOURGLASS",
+  "espirituAnimal" : "DRAGON"
+}, {
+  "id" : "CRT-277",
+  "nombre" : "BIPIN AND BLOSSOM'S SON",
+  "apodo" : "FRYLOCK",
+  "edad" : 59,
+  "nivel" : 40,
+  "peso" : 74.03,
+  "ubicacion" : "BAG END",
+  "juego" : "THE WIND WAKER",
+  "espirituAnimal" : "TIGRE"
+}, {
+  "id" : "CRT-278",
+  "nombre" : "RENSA",
+  "apodo" : "MC PEE PANTS",
+  "edad" : 20,
+  "nivel" : 83,
+  "peso" : 97.21,
+  "ubicacion" : "DARK LAND",
+  "juego" : "THE MINISH CAP",
+  "espirituAnimal" : "DRAGON"
+}, {
+  "id" : "CRT-279",
+  "nombre" : "DARUK",
+  "apodo" : "D.P",
+  "edad" : 33,
+  "nivel" : 79,
+  "peso" : 88.75,
+  "ubicacion" : "DARK LAND",
+  "juego" : "THE LEGEND OF ZELDA",
+  "espirituAnimal" : "PERRO"
+}, {
+  "id" : "CRT-280",
+  "nombre" : "POTHO",
+  "apodo" : "ERR",
+  "edad" : 38,
+  "nivel" : 50,
+  "peso" : 86.61,
+  "ubicacion" : "ARGONATH",
+  "juego" : "PHANTOM HOURGLASS",
+  "espirituAnimal" : "BUEY"
+}, {
+  "id" : "CRT-281",
+  "nombre" : "CARPENTERS",
+  "apodo" : "MEATWAD",
+  "edad" : 27,
+  "nivel" : 26,
+  "peso" : 85.79,
+  "ubicacion" : "TOL-IN-GAURHOTH",
+  "juego" : "BREATH OF THE WILD",
+  "espirituAnimal" : "SERPIENTE"
+}, {
+  "id" : "CRT-282",
+  "nombre" : "NO'EZ YOHMA",
+  "apodo" : "DR. WEIRD",
+  "edad" : 21,
+  "nivel" : 71,
+  "peso" : 83.79,
+  "ubicacion" : "EAST BELERIAND",
+  "juego" : "BREATH OF THE WILD",
+  "espirituAnimal" : "SERPIENTE"
+}, {
+  "id" : "CRT-283",
+  "nombre" : "BOSH KALA",
+  "apodo" : "MEATWAD",
+  "edad" : 66,
+  "nivel" : 60,
+  "peso" : 86.68,
+  "ubicacion" : "THE FORSAKEN INN",
+  "juego" : "BREATH OF THE WILD",
+  "espirituAnimal" : "TIGRE"
+}, {
+  "id" : "CRT-284",
+  "nombre" : "OLD MEN",
+  "apodo" : "DR. WONGBURGER",
+  "edad" : 46,
+  "nivel" : 77,
+  "peso" : 94.6,
+  "ubicacion" : "TOL BRANDIR",
+  "juego" : "TWILIGHT PRINCESS",
+  "espirituAnimal" : "DRAGON"
+}, {
+  "id" : "CRT-285",
+  "nombre" : "GROG",
+  "apodo" : "CARL BRUTANANADILEWSKI",
+  "edad" : 34,
+  "nivel" : 23,
+  "peso" : 88.14,
+  "ubicacion" : "FALLS OF RAUROS",
+  "juego" : "PHANTOM HOURGLASS",
+  "espirituAnimal" : "CABALLO"
+}, {
+  "id" : "CRT-286",
+  "nombre" : "MAAG HALAN",
+  "apodo" : "CARL BRUTANANADILEWSKI",
+  "edad" : 49,
+  "nivel" : 50,
+  "peso" : 86.04,
+  "ubicacion" : "UTUMNO",
+  "juego" : "ORACLE OF SEASONS - ORACLE OF AGES",
+  "espirituAnimal" : "RATA"
+}, {
+  "id" : "CRT-287",
+  "nombre" : "SHIRO",
+  "apodo" : "MEATWAD",
+  "edad" : 54,
+  "nivel" : 2,
+  "peso" : 81.36,
+  "ubicacion" : "BLACK GATE",
+  "juego" : "THE LEGEND OF ZELDA",
+  "espirituAnimal" : "PERRO"
+}, {
+  "id" : "CRT-288",
+  "nombre" : "MAMAMU YAN",
+  "apodo" : "CYBERNETIC GHOST OF CHRISTMAS PAST FROM THE FUTURE",
+  "edad" : 33,
+  "nivel" : 83,
+  "peso" : 75.08,
+  "ubicacion" : "OLD FOREST",
+  "juego" : "THE MINISH CAP",
+  "espirituAnimal" : "CABALLO"
+}, {
+  "id" : "CRT-289",
+  "nombre" : "GONGORON",
+  "apodo" : "STEVE",
+  "edad" : 61,
+  "nivel" : 34,
+  "peso" : 70.36,
+  "ubicacion" : "NARGOTHROND",
+  "juego" : "OCARINA OF TIME",
+  "espirituAnimal" : "CABALLO"
+}, {
+  "id" : "CRT-290",
+  "nombre" : "BUGUT",
+  "apodo" : "GEORGE LOWE",
+  "edad" : 69,
+  "nivel" : 12,
+  "peso" : 71.47,
+  "ubicacion" : "GREENWAY",
+  "juego" : "THE MINISH CAP",
+  "espirituAnimal" : "BUEY"
+}, {
+  "id" : "CRT-291",
+  "nombre" : "PRINCE SIDON",
+  "apodo" : "STEVE",
+  "edad" : 28,
+  "nivel" : 64,
+  "peso" : 79.79,
+  "ubicacion" : "THE VOID",
+  "juego" : "THE WIND WAKER",
+  "espirituAnimal" : "GALLO"
+}, {
+  "id" : "CRT-292",
+  "nombre" : "MAD BATTER",
+  "apodo" : "CYBERNETIC GHOST OF CHRISTMAS PAST FROM THE FUTURE",
+  "edad" : 53,
+  "nivel" : 2,
+  "peso" : 83.9,
+  "ubicacion" : "ANGBAND",
+  "juego" : "THE LEGEND OF ZELDA",
+  "espirituAnimal" : "DRAGON"
+}, {
+  "id" : "CRT-293",
+  "nombre" : "TOFFA",
+  "apodo" : "DR. WONGBURGER",
+  "edad" : 43,
+  "nivel" : 39,
+  "peso" : 96.45,
+  "ubicacion" : "NÚATH",
+  "juego" : "FOUR SWORDS",
+  "espirituAnimal" : "CABALLO"
+}, {
+  "id" : "CRT-294",
+  "nombre" : "EMBRY",
+  "apodo" : "GEORGE LOWE",
+  "edad" : 25,
+  "nivel" : 56,
+  "peso" : 79.77,
+  "ubicacion" : "OLD FORD",
+  "juego" : "A LINK TO THE PAST",
+  "espirituAnimal" : "CABALLO"
+}, {
+  "id" : "CRT-295",
+  "nombre" : "MADAM MEOWMEOW",
+  "apodo" : "DR. WONGBURGER",
+  "edad" : 60,
+  "nivel" : 58,
+  "peso" : 96.31,
+  "ubicacion" : "HYARNUSTAR",
+  "juego" : "MAJORA'S MASK",
+  "espirituAnimal" : "CABRA"
+}, {
+  "id" : "CRT-296",
+  "nombre" : "MAMU",
+  "apodo" : "ERR",
+  "edad" : 33,
+  "nivel" : 34,
+  "peso" : 76.15,
+  "ubicacion" : "ENDLESS STAIR",
+  "juego" : "BREATH OF THE WILD",
+  "espirituAnimal" : "RATA"
+}, {
+  "id" : "CRT-297",
+  "nombre" : "KAYO",
+  "apodo" : "ERR",
+  "edad" : 33,
+  "nivel" : 58,
+  "peso" : 75.67,
+  "ubicacion" : "ANGBAND",
+  "juego" : "OCARINA OF TIME",
+  "espirituAnimal" : "DRAGON"
+}, {
+  "id" : "CRT-298",
+  "nombre" : "WOLF LINK",
+  "apodo" : "SKEETER",
+  "edad" : 23,
+  "nivel" : 39,
+  "peso" : 76.39,
+  "ubicacion" : "ILMEN",
+  "juego" : "BREATH OF THE WILD",
+  "espirituAnimal" : "CABALLO"
+}, {
+  "id" : "CRT-299",
+  "nombre" : "KING OF HYRULE",
+  "apodo" : "DR. WEIRD",
+  "edad" : 33,
+  "nivel" : 46,
+  "peso" : 74.82,
+  "ubicacion" : "TAUR-EN-FAROTH",
+  "juego" : "ZELDA II: ADVENTURE OF LINK",
+  "espirituAnimal" : "GALLO"
+}, {
+  "id" : "CRT-300",
+  "nombre" : "SHOPKEEPER",
+  "apodo" : "DR. WONGBURGER",
+  "edad" : 40,
+  "nivel" : 27,
+  "peso" : 89.41,
+  "ubicacion" : "ANGBAND",
+  "juego" : "A LINK TO THE PAST",
+  "espirituAnimal" : "SERPIENTE"
+}, {
+  "id" : "CRT-301",
+  "nombre" : "DAKA TUSS",
+  "apodo" : "FRYLOCK",
+  "edad" : 25,
+  "nivel" : 39,
+  "peso" : 79.36,
+  "ubicacion" : "HOBBIT-HOLE",
+  "juego" : "THE LEGEND OF ZELDA",
+  "espirituAnimal" : "SERPIENTE"
+}, {
+  "id" : "CRT-302",
+  "nombre" : "JABUN",
+  "apodo" : "ERR",
+  "edad" : 53,
+  "nivel" : 25,
+  "peso" : 97.08,
+  "ubicacion" : "EAST ROAD",
+  "juego" : "OCARINA OF TIME",
+  "espirituAnimal" : "CABALLO"
+}, {
+  "id" : "CRT-303",
+  "nombre" : "DARUNIA",
+  "apodo" : "CYBERNETIC GHOST OF CHRISTMAS PAST FROM THE FUTURE",
+  "edad" : 23,
+  "nivel" : 39,
+  "peso" : 87.63,
+  "ubicacion" : "MÁHANAXAR",
+  "juego" : "PHANTOM HOURGLASS",
+  "espirituAnimal" : "TIGRE"
+}, {
+  "id" : "CRT-304",
+  "nombre" : "FLAT",
+  "apodo" : "CYBERNETIC GHOST OF CHRISTMAS PAST FROM THE FUTURE",
+  "edad" : 64,
+  "nivel" : 25,
+  "peso" : 82.89,
+  "ubicacion" : "ORTHANC",
+  "juego" : "MAJORA'S MASK",
+  "espirituAnimal" : "GALLO"
+}, {
+  "id" : "CRT-305",
+  "nombre" : "BARTA",
+  "apodo" : "CARL BRUTANANADILEWSKI",
+  "edad" : 39,
+  "nivel" : 90,
+  "peso" : 79.11,
+  "ubicacion" : "RIVENDELL",
+  "juego" : "THE WIND WAKER",
+  "espirituAnimal" : "SERPIENTE"
+}, {
+  "id" : "CRT-306",
+  "nombre" : "CARPENTERS",
+  "apodo" : "STEVE",
+  "edad" : 22,
+  "nivel" : 6,
+  "peso" : 76.38,
+  "ubicacion" : "ENDLESS STAIR",
+  "juego" : "FOUR SWORDS",
+  "espirituAnimal" : "TIGRE"
+}, {
+  "id" : "CRT-307",
+  "nombre" : "BELARI",
+  "apodo" : "FRYLOCK",
+  "edad" : 62,
+  "nivel" : 15,
+  "peso" : 81.01,
+  "ubicacion" : "UTUMNO",
+  "juego" : "BREATH OF THE WILD",
+  "espirituAnimal" : "CABALLO"
+}, {
+  "id" : "CRT-308",
+  "nombre" : "ZILL",
+  "apodo" : "CYBERNETIC GHOST OF CHRISTMAS PAST FROM THE FUTURE",
+  "edad" : 67,
+  "nivel" : 75,
+  "peso" : 91.09,
+  "ubicacion" : "COLDFELLS",
+  "juego" : "A LINK TO THE PAST",
+  "espirituAnimal" : "CABRA"
+}, {
+  "id" : "CRT-309",
+  "nombre" : "TOKKEY",
+  "apodo" : "MASTER SHAKE",
+  "edad" : 26,
+  "nivel" : 17,
+  "peso" : 74.75,
+  "ubicacion" : "ENDLESS STAIR",
+  "juego" : "A LINK TO THE PAST",
+  "espirituAnimal" : "PERRO"
+}, {
+  "id" : "CRT-310",
+  "nombre" : "GONGORON",
+  "apodo" : "STEVE",
+  "edad" : 44,
+  "nivel" : 27,
+  "peso" : 95.88,
+  "ubicacion" : "PATHS OF THE DEAD",
+  "juego" : "THE WIND WAKER",
+  "espirituAnimal" : "CERDO"
+}, {
+  "id" : "CRT-311",
+  "nombre" : "CHEF BEAR",
+  "apodo" : "MEATWAD",
+  "edad" : 22,
+  "nivel" : 62,
+  "peso" : 87.19,
+  "ubicacion" : "TOL GALEN",
+  "juego" : "BREATH OF THE WILD",
+  "espirituAnimal" : "PERRO"
+}, {
+  "id" : "CRT-312",
+  "nombre" : "NERI",
+  "apodo" : "FRYLOCK",
+  "edad" : 22,
+  "nivel" : 75,
+  "peso" : 76.16,
+  "ubicacion" : "TOL BRANDIR",
+  "juego" : "ZELDA II: ADVENTURE OF LINK",
+  "espirituAnimal" : "RATA"
+}, {
+  "id" : "CRT-313",
+  "nombre" : "BOSH KALA",
+  "apodo" : "CYBERNETIC GHOST OF CHRISTMAS PAST FROM THE FUTURE",
+  "edad" : 57,
+  "nivel" : 17,
+  "peso" : 86.81,
+  "ubicacion" : "NARCHOST",
+  "juego" : "A LINK TO THE PAST",
+  "espirituAnimal" : "SERPIENTE"
+}, {
+  "id" : "CRT-314",
+  "nombre" : "GARADON",
+  "apodo" : "DR. WEIRD",
+  "edad" : 34,
+  "nivel" : 4,
+  "peso" : 86.66,
+  "ubicacion" : "EÄ",
+  "juego" : "THE MINISH CAP",
+  "espirituAnimal" : "TIGRE"
+}, {
+  "id" : "CRT-315",
+  "nombre" : "ZANT",
+  "apodo" : "IGNIGNOKT",
+  "edad" : 53,
+  "nivel" : 77,
+  "peso" : 71.63,
+  "ubicacion" : "TOL-IN-GAURHOTH",
+  "juego" : "THE WIND WAKER",
+  "espirituAnimal" : "CABALLO"
+}, {
+  "id" : "CRT-316",
+  "nombre" : "KA'O MUAKAGH",
+  "apodo" : "MC PEE PANTS",
+  "edad" : 55,
+  "nivel" : 42,
+  "peso" : 79.85,
+  "ubicacion" : "MÁHANAXAR",
+  "juego" : "THE WIND WAKER",
+  "espirituAnimal" : "CABRA"
+}, {
+  "id" : "CRT-317",
+  "nombre" : "DAMIA",
+  "apodo" : "ERR",
+  "edad" : 49,
+  "nivel" : 80,
+  "peso" : 80.91,
+  "ubicacion" : "MARISH",
+  "juego" : "MAJORA'S MASK",
+  "espirituAnimal" : "CONEJO"
+}, {
+  "id" : "CRT-318",
+  "nombre" : "JABUN",
+  "apodo" : "FRYLOCK",
+  "edad" : 50,
+  "nivel" : 41,
+  "peso" : 96.83,
+  "ubicacion" : "HENNETH ANNÛN",
+  "juego" : "MAJORA'S MASK",
+  "espirituAnimal" : "DRAGON"
+}, {
+  "id" : "CRT-319",
+  "nombre" : "SHOP KEEPER",
+  "apodo" : "DR. WEIRD",
+  "edad" : 26,
+  "nivel" : 36,
+  "peso" : 80.62,
+  "ubicacion" : "ISENMOUTHE",
+  "juego" : "A LINK TO THE PAST",
+  "espirituAnimal" : "DRAGON"
+}, {
+  "id" : "CRT-320",
+  "nombre" : "CARPENTERS",
+  "apodo" : "OGLETHORPE",
+  "edad" : 41,
+  "nivel" : 4,
+  "peso" : 72.99,
+  "ubicacion" : "ALDBURG",
+  "juego" : "THE WIND WAKER",
+  "espirituAnimal" : "GALLO"
+}, {
+  "id" : "CRT-321",
+  "nombre" : "OLD LADY FROM BOMB SHOP",
+  "apodo" : "CYBERNETIC GHOST OF CHRISTMAS PAST FROM THE FUTURE",
+  "edad" : 42,
+  "nivel" : 38,
+  "peso" : 73.98,
+  "ubicacion" : "ENDLESS STAIR",
+  "juego" : "THE MINISH CAP",
+  "espirituAnimal" : "CABRA"
+}, {
+  "id" : "CRT-322",
+  "nombre" : "ULRIRA",
+  "apodo" : "CYBERNETIC GHOST OF CHRISTMAS PAST FROM THE FUTURE",
+  "edad" : 28,
+  "nivel" : 19,
+  "peso" : 73.74,
+  "ubicacion" : "COLDFELLS",
+  "juego" : "TWILIGHT PRINCESS",
+  "espirituAnimal" : "CONEJO"
+}, {
+  "id" : "CRT-323",
+  "nombre" : "BARTA",
+  "apodo" : "SKEETER",
+  "edad" : 48,
+  "nivel" : 80,
+  "peso" : 90.72,
+  "ubicacion" : "THE RIVERS AND BEACON-HILLS OF GONDOR",
+  "juego" : "THE LEGEND OF ZELDA",
+  "espirituAnimal" : "CONEJO"
+}, {
+  "id" : "CRT-324",
+  "nombre" : "PURAH",
+  "apodo" : "GEORGE LOWE",
+  "edad" : 26,
+  "nivel" : 42,
+  "peso" : 95.25,
+  "ubicacion" : "PARTH GALEN",
+  "juego" : "ORACLE OF SEASONS - ORACLE OF AGES",
+  "espirituAnimal" : "CABALLO"
+}, {
+  "id" : "CRT-325",
+  "nombre" : "BROCCO",
+  "apodo" : "GEORGE LOWE",
+  "edad" : 53,
+  "nivel" : 85,
+  "peso" : 70.49,
+  "ubicacion" : "PELENNOR FIELDS",
+  "juego" : "THE MINISH CAP",
+  "espirituAnimal" : "GALLO"
+}, {
+  "id" : "CRT-326",
+  "nombre" : "DEKKI",
+  "apodo" : "EMORY",
+  "edad" : 57,
+  "nivel" : 6,
+  "peso" : 93.73,
+  "ubicacion" : "OLD FORD",
+  "juego" : "THE LEGEND OF ZELDA",
+  "espirituAnimal" : "PERRO"
+}, {
+  "id" : "CRT-327",
+  "nombre" : "MAYOR HAGEN",
+  "apodo" : "CARL BRUTANANADILEWSKI",
+  "edad" : 37,
+  "nivel" : 23,
+  "peso" : 96.44,
+  "ubicacion" : "GREENWAY",
+  "juego" : "THE LEGEND OF ZELDA",
+  "espirituAnimal" : "GALLO"
+}, {
+  "id" : "CRT-328",
+  "nombre" : "CHEVAL",
+  "apodo" : "D.P",
+  "edad" : 23,
+  "nivel" : 21,
+  "peso" : 85.76,
+  "ubicacion" : "ISENMOUTHE",
+  "juego" : "PHANTOM HOURGLASS",
+  "espirituAnimal" : "CABALLO"
+}, {
+  "id" : "CRT-329",
+  "nombre" : "PLEN",
+  "apodo" : "IGNIGNOKT",
+  "edad" : 40,
+  "nivel" : 52,
+  "peso" : 86.95,
+  "ubicacion" : "TOL GALEN",
+  "juego" : "PHANTOM HOURGLASS",
+  "espirituAnimal" : "GALLO"
+}, {
+  "id" : "CRT-330",
+  "nombre" : "ZAUZ",
+  "apodo" : "DR. WEIRD",
+  "edad" : 23,
+  "nivel" : 61,
+  "peso" : 73.88,
+  "ubicacion" : "PARTH GALEN",
+  "juego" : "A LINK TO THE PAST",
+  "espirituAnimal" : "BUEY"
+}, {
+  "id" : "CRT-331",
+  "nombre" : "GREAT FAIRY",
+  "apodo" : "MC PEE PANTS",
+  "edad" : 25,
+  "nivel" : 18,
+  "peso" : 70.49,
+  "ubicacion" : "NARGOTHROND",
+  "juego" : "ORACLE OF SEASONS - ORACLE OF AGES",
+  "espirituAnimal" : "DRAGON"
+}, {
+  "id" : "CRT-332",
+  "nombre" : "PADOK",
+  "apodo" : "IGNIGNOKT",
+  "edad" : 58,
+  "nivel" : 85,
+  "peso" : 82.3,
+  "ubicacion" : "PARTH GALEN",
+  "juego" : "FOUR SWORDS",
+  "espirituAnimal" : "SERPIENTE"
+}, {
+  "id" : "CRT-333",
+  "nombre" : "VILIA",
+  "apodo" : "GEORGE LOWE",
+  "edad" : 64,
+  "nivel" : 30,
+  "peso" : 90.93,
+  "ubicacion" : "THE FORSAKEN INN",
+  "juego" : "PHANTOM HOURGLASS",
+  "espirituAnimal" : "BUEY"
+}, {
+  "id" : "CRT-334",
+  "nombre" : "ARYLL",
+  "apodo" : "DR. WEIRD",
+  "edad" : 57,
+  "nivel" : 2,
+  "peso" : 71.24,
+  "ubicacion" : "EASTFARTHING",
+  "juego" : "THE LEGEND OF ZELDA",
+  "espirituAnimal" : "CABRA"
+}, {
+  "id" : "CRT-335",
+  "nombre" : "TOTO SAH",
+  "apodo" : "ERR",
+  "edad" : 45,
+  "nivel" : 55,
+  "peso" : 78.27,
+  "ubicacion" : "THE RIVERS AND BEACON-HILLS OF GONDOR",
+  "juego" : "THE MINISH CAP",
+  "espirituAnimal" : "CERDO"
+}, {
+  "id" : "CRT-336",
+  "nombre" : "TASHO",
+  "apodo" : "ERR",
+  "edad" : 30,
+  "nivel" : 47,
+  "peso" : 77.24,
+  "ubicacion" : "COLDFELLS",
+  "juego" : "BREATH OF THE WILD",
+  "espirituAnimal" : "CABALLO"
+}, {
+  "id" : "CRT-337",
+  "nombre" : "SAYGE",
+  "apodo" : "GEORGE LOWE",
+  "edad" : 31,
+  "nivel" : 79,
+  "peso" : 93.48,
+  "ubicacion" : "TIMELESS HALLS",
+  "juego" : "FOUR SWORDS",
+  "espirituAnimal" : "BUEY"
+}, {
+  "id" : "CRT-338",
+  "nombre" : "NERI",
+  "apodo" : "MASTER SHAKE",
+  "edad" : 45,
+  "nivel" : 59,
+  "peso" : 91.6,
+  "ubicacion" : "BLACK GATE",
+  "juego" : "THE LEGEND OF ZELDA",
+  "espirituAnimal" : "CABALLO"
+}, {
+  "id" : "CRT-339",
+  "nombre" : "RIK",
+  "apodo" : "MASTER SHAKE",
+  "edad" : 32,
+  "nivel" : 80,
+  "peso" : 79.55,
+  "ubicacion" : "GAP OF ROHAN",
+  "juego" : "FOUR SWORDS",
+  "espirituAnimal" : "CABRA"
+}, {
+  "id" : "CRT-340",
+  "nombre" : "VERAN",
+  "apodo" : "CYBERNETIC GHOST OF CHRISTMAS PAST FROM THE FUTURE",
+  "edad" : 41,
+  "nivel" : 74,
+  "peso" : 95.89,
+  "ubicacion" : "ISENGARD",
+  "juego" : "PHANTOM HOURGLASS",
+  "espirituAnimal" : "CABRA"
+}, {
+  "id" : "CRT-341",
+  "nombre" : "PAMELA",
+  "apodo" : "EMORY",
+  "edad" : 34,
+  "nivel" : 79,
+  "peso" : 81.72,
+  "ubicacion" : "TOL BRANDIR",
+  "juego" : "MAJORA'S MASK",
+  "espirituAnimal" : "CABALLO"
+}, {
+  "id" : "CRT-342",
+  "nombre" : "WALRUS",
+  "apodo" : "FRYLOCK",
+  "edad" : 26,
+  "nivel" : 49,
+  "peso" : 83.41,
+  "ubicacion" : "EAST ROAD",
+  "juego" : "THE LEGEND OF ZELDA",
+  "espirituAnimal" : "CERDO"
+}, {
+  "id" : "CRT-343",
+  "nombre" : "MELLIE",
+  "apodo" : "IGNIGNOKT",
+  "edad" : 21,
+  "nivel" : 82,
+  "peso" : 74.32,
+  "ubicacion" : "WARNING BEACONS OF GONDOR",
+  "juego" : "ORACLE OF SEASONS - ORACLE OF AGES",
+  "espirituAnimal" : "CONEJO"
+}, {
+  "id" : "CRT-344",
+  "nombre" : "CHEVAL",
+  "apodo" : "DR. WEIRD",
+  "edad" : 53,
+  "nivel" : 88,
+  "peso" : 83.75,
+  "ubicacion" : "EASTFARTHING",
+  "juego" : "ORACLE OF SEASONS - ORACLE OF AGES",
+  "espirituAnimal" : "CABALLO"
+}, {
+  "id" : "CRT-345",
+  "nombre" : "MADAM AROMA",
+  "apodo" : "TURKATRON",
+  "edad" : 28,
+  "nivel" : 23,
+  "peso" : 82.47,
+  "ubicacion" : "BARAD-DÛR",
+  "juego" : "FOUR SWORDS",
+  "espirituAnimal" : "TIGRE"
+}, {
+  "id" : "CRT-346",
+  "nombre" : "SOKRA",
+  "apodo" : "MASTER SHAKE",
+  "edad" : 39,
+  "nivel" : 71,
+  "peso" : 87.77,
+  "ubicacion" : "LAND OF THE SUN",
+  "juego" : "PHANTOM HOURGLASS",
+  "espirituAnimal" : "GALLO"
+}, {
+  "id" : "CRT-347",
+  "nombre" : "WHEATON AND PITA",
+  "apodo" : "STEVE",
+  "edad" : 22,
+  "nivel" : 55,
+  "peso" : 95.5,
+  "ubicacion" : "TOL MORWEN",
+  "juego" : "ZELDA II: ADVENTURE OF LINK",
+  "espirituAnimal" : "PERRO"
+}, {
+  "id" : "CRT-348",
+  "nombre" : "JOUTE",
+  "apodo" : "SKEETER",
+  "edad" : 64,
+  "nivel" : 20,
+  "peso" : 72.43,
+  "ubicacion" : "ISENGARD",
+  "juego" : "A LINK TO THE PAST",
+  "espirituAnimal" : "DRAGON"
+}, {
+  "id" : "CRT-349",
+  "nombre" : "BIPIN AND BLOSSOM'S SON",
+  "apodo" : "D.P",
+  "edad" : 68,
+  "nivel" : 46,
+  "peso" : 79.24,
+  "ubicacion" : "EÄ",
+  "juego" : "A LINK TO THE PAST",
+  "espirituAnimal" : "SERPIENTE"
+} ]
