@@ -20,7 +20,7 @@ public class Ejercicio2 {
         System.out.printf("Total Items filtrados: %d" , arrayNumerosUnicos.size());
     }
 
-    static Set<Double> quitarDuplicadosDeArray(double[] numeros) {
+    private static Set<Double> quitarDuplicadosDeArray(double[] numeros) {
         final var listNumeros = new HashSet<Double>();
         for (var numero: numeros){
             listNumeros.add(numero);

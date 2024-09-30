@@ -15,6 +15,7 @@ public class Ejercicio3 {
         final var sumatoriaNumerosDeArray = obtenerSumatoriaDeNumerosDeArray(listNumeros);
         System.out.printf("Sumatoria de Numeros en Array: %.2f", sumatoriaNumerosDeArray);
     }
+
     private static double obtenerSumatoriaDeNumerosDeArray(double[] array) {
         var sumatoria = 0.;
         for (var numero : array) {
