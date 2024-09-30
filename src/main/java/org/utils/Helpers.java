@@ -1,17 +1,14 @@
 package org.utils;
 
-import java.util.Random;
+import com.github.javafaker.Faker;
 
 public class Helpers {
 
-    public static double generateRandomDouble(double max, double min, Random random) {
-        return (max - min) * random.nextDouble() + min;
-    }
-
-    public static double[] generateArrayNumeros(int totalNumeros, Random random) {
+    public static double[] generateArrayNumerosDecimales(int totalNumeros, int min, int max) {
         final var numeros = new double[totalNumeros];
+        final var faker = new Faker();
         for (var i = 0; i < totalNumeros; i++) {
-            numeros[i] = generateRandomDouble(100000, 10000, random);
+            numeros[i] = faker.number().randomDouble(2,min,max);
         }
         return numeros;
     }
