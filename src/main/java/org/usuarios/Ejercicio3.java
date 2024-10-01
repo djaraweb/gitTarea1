@@ -16,7 +16,7 @@ public class Ejercicio3 {
 
     private static List<Usuario> filtrarUsuarios(List<Usuario> listUsuarios, String pais) {
         final var usuariosFiltrados = new ArrayList<Usuario>();
-        for (Usuario user : listUsuarios) {
+        for (var user : listUsuarios) {
             if (user.getPais().equals(pais.toUpperCase())) {
                 usuariosFiltrados.add(user);
             }

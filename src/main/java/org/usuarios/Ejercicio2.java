@@ -18,7 +18,7 @@ public class Ejercicio2 {
 
     private static List<Usuario> filtrarUsuarios(List<Usuario> listUsuarios, String endEmail) {
         final var usuariosFiltrados = new ArrayList<Usuario>();
-        for (Usuario user : listUsuarios) {
+        for (var user : listUsuarios) {
             if (user.getCorreo().endsWith(endEmail.toUpperCase())) {
                 usuariosFiltrados.add(user);
             }
