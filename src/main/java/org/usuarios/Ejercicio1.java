@@ -18,7 +18,7 @@ public class Ejercicio1 {
 
     private static List<Usuario> filtrarUsuarios(List<Usuario> listUsuarios, double pesoMayor, String startNombre, String endApellido) {
         final var usuariosFiltrados = new ArrayList<Usuario>();
-        for (Usuario user : listUsuarios) {
+        for (var user : listUsuarios) {
             if (user.getPeso() > pesoMayor &&
                     user.getNombre().startsWith(startNombre) &&
                     user.getApellido().endsWith(endApellido)) {
