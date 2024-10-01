@@ -4,6 +4,7 @@ import org.utils.ExcelReader;
 
 import java.util.HashMap;
 import java.util.List;
+import java.util.Map;
 
 public class Ejercicio5 {
 
@@ -20,7 +21,7 @@ public class Ejercicio5 {
         System.out.printf("La Suma de edades de los usuarios es : %d", sumaEdades);
     }
 
-    private static HashMap<String, Usuario> convertirHashMap(List<Usuario> listaUsuarios) {
+    private static Map<String, Usuario> convertirHashMap(List<Usuario> listaUsuarios) {
         final var mapUsers = new HashMap<String, Usuario>();
         for (var user : listaUsuarios) {
             mapUsers.put(user.getId(), user);
