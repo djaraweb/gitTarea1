@@ -56,14 +56,6 @@ public class Usuario {
         return correo;
     }
 
-    public String getUsername() {
-        return username;
-    }
-
-    public String getPassword() {
-        return password;
-    }
-
     public String getPais() {
         return pais;
     }
@@ -84,15 +76,15 @@ public class Usuario {
                 }
                 """;
         return String.format(multilinea,
-                getId(),
-                getNombre(),
-                getApellido(),
-                getEdad(),
-                getPeso(),
-                getCorreo(),
-                getUsername(),
-                getPassword(),
-                getPais());
+                id,
+                nombre,
+                apellido,
+                edad,
+                peso,
+                correo,
+                username,
+                password,
+                pais);
 
     }
 }

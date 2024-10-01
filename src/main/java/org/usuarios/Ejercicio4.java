@@ -8,7 +8,7 @@ import java.util.List;
 public class Ejercicio4 {
 
     public static void main(String[] args) {
-        System.out.println("Crear un método que filtre todos los usuarios que sean de China");
+        System.out.println("Crear un método que ordene todos los usuarios por su apellido orden alfabético descendente Z -> A");
         final var listUsuarios = ExcelReader.getListUsuarios();
 
         final var arrayUsuarios = transformarEnArray(listUsuarios);
@@ -17,9 +17,9 @@ public class Ejercicio4 {
     }
 
     private static Usuario[] transformarEnArray(List<Usuario> listaUsuarios) {
-        final var totalItems=listaUsuarios.size();
+        final var totalItems = listaUsuarios.size();
         final var array = new Usuario[totalItems];
-        for (var i=0; i<totalItems; i++){
+        for (var i = 0; i < totalItems; i++) {
             array[i] = listaUsuarios.get(i);
         }
         return array;
