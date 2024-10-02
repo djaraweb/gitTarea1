@@ -10,7 +10,7 @@ public class Ejercicio3 {
 
     public static void main(String[] args) {
         System.out.println("Crear un método que ordene todos los pokemones de CERULEAN CITY de menor a mayor por su nombre (A->Z)");
-        final var pokemones = JsonReader.getPokemonesJson();
+        final var pokemones = JsonReader.getPokemonList();
         final var pokemonesFiltrados = filtrarPokemonesPorUbicacion(pokemones, "CERULEAN CITY");
 
         final var arrayPokemones = transformarListaToArray(pokemonesFiltrados);
@@ -20,10 +20,10 @@ public class Ejercicio3 {
 
     private static List<Pokemon> filtrarPokemonesPorUbicacion(List<Pokemon> listPokemones, String ubicacion) {
         final var listFiltroPokemones = new ArrayList<Pokemon>();
-        listPokemones.forEach(pokemon -> {
+        for (var pokemon : listPokemones) {
             if (pokemon.getUbicacion().equals(ubicacion))
                 listFiltroPokemones.add(pokemon);
-        });
+        }
         return listFiltroPokemones;
     }
 

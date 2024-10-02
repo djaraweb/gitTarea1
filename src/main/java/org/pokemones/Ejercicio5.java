@@ -10,7 +10,7 @@ public class Ejercicio5 {
 
     public static void main(String[] args) {
         System.out.println("Crear un método que sume las defensas de 2 pokemones en base a su ID");
-        final var pokemones = JsonReader.getPokemonesJson();
+        final var pokemones = JsonReader.getPokemonList();
 
         final var mapPokemones = convertirHashMap(pokemones);
         final var pokemon1 = mapPokemones.get("PKM-348");

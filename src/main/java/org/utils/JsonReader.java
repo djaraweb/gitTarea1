@@ -11,7 +11,7 @@ import java.util.List;
 public class JsonReader {
     private static final String pokemonesJsonPath = "src/main/resources/dataJson/pokemones.json";
 
-    public static List<Pokemon> getPokemonesJson() {
+    public static List<Pokemon> getPokemonList() {
         final var objectMapper = new ObjectMapper();
         try {
             return objectMapper.readValue(new File(pokemonesJsonPath),

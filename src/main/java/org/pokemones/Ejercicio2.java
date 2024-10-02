@@ -10,7 +10,7 @@ public class Ejercicio2 {
 
     public static void main(String[] args) {
         System.out.println("Crear un método que ordene todos los pokemones de tipo ELECTRICIDAD por su nivel de mayor a menor");
-        final var pokemones = JsonReader.getPokemonesJson();
+        final var pokemones = JsonReader.getPokemonList();
         final var pokemonesFiltrados = filtrarPokemonesPorTipo(pokemones, "ELECTRICIDAD");
 
         final var arrayPokemones = transformarListaToArray(pokemonesFiltrados);
@@ -20,10 +20,10 @@ public class Ejercicio2 {
 
     private static List<Pokemon> filtrarPokemonesPorTipo(List<Pokemon> listPokemones, String tipo) {
         final var listFiltroPokemones = new ArrayList<Pokemon>();
-        listPokemones.forEach(pokemon -> {
+        for (var pokemon : listPokemones) {
             if (pokemon.getTipo().equals(tipo))
                 listFiltroPokemones.add(pokemon);
-        });
+        }
         return listFiltroPokemones;
     }
 
